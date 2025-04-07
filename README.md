@@ -1,5 +1,7 @@
 # How to make a 1.12.2 eaglercraft server
 
+## REPO: https://gitlab.com/potato1234/mc-2
+
 Just deploy this on render, gitpod, replit, or another full-stack hosting provider and set an enviorment variable called SERVER to your 1.12.2 offline mode minecraft server.
 
 # Customization:

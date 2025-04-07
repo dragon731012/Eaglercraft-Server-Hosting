@@ -1,6 +1,9 @@
-# How to make a 1.8.8 eaglercraft server
+# How to make a 1.12.2 eaglercraft server
 
-Just deploy this on render, gitpod, replit, or another full-stack hosting provider and set an enviorment variable called SERVER to your 1.8.8 offline mode minecraft server.
+Just deploy this on render, gitpod, replit, or another full-stack hosting provider and set an enviorment variable called SERVER to your 1.12.2 offline mode minecraft server.
+
+# Customization:
+Set enviorment variable MTOD to customize the server mtod!
 
 Video Tutorial:
-https://youtu.be/UW5eX3VLNRU?si=qskFvnb6U2kgD5BX
+https://youtu.be/0aCJhbfsU_I?si=7duTmjFaAt4t-w_7

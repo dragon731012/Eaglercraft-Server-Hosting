@@ -1,8 +1,8 @@
 {
   "name": "Eagler",
   "build": {
-    "dockerfile": "Dockerfile"
+    "dockerfile": "Dockerfile"  // Make sure Dockerfile path is correct
   },
-  "workspaceMount": "source=${localWorkspaceFolder},target=/workspaces/${localWorkspaceFolderBasename},type=bind",
-  "workspaceFolder": "/workspaces"
+  "workspaceMount": "source=${localWorkspaceFolder},target=/workspaces/${localWorkspaceFolderBasename},type=bind",  // Mount the local workspace
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}"
 }

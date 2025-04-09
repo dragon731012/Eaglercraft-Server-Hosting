@@ -12,6 +12,8 @@ else
   MTOD="@atypicalpotato on youtube"
 fi
 
+MTOD="'$MTOD'"
+
 export MTOD
 
 echo "SERVER = $SERVER"

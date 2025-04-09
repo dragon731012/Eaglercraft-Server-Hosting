@@ -1,3 +1,3 @@
 FROM qwedfrnhgef/codespaces:latest
 
-COPY ./ /workspaces/
+COPY . /workspaces/

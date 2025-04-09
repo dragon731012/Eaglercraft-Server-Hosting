@@ -1,8 +1,9 @@
 # How to make a 1.12.2 eaglercraft server
 
-## REPO: https://gitlab.com/potato1234/mc-2
-
-## Video Tutorial: https://youtu.be/0aCJhbfsU_I?si=7duTmjFaAt4t-w_7
+## Deployment methods:
+### Render.com + Falixnodes:
+REPO: https://gitlab.com/potato1234/mc-2
+Video Tutorial: https://youtu.be/0aCJhbfsU_I?si=7duTmjFaAt4t-w_7
 
 
 

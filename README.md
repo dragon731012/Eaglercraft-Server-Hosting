@@ -12,6 +12,9 @@ Directions:
 3. Create a codespace
 4. Run `bash .devcontainer/main.sh` in the terminal
 5. Input your server address
+6. Input custom MTOD if nessasary
+7. Click open in browser
+8. Enjoy!
    
 ### Other:
 Just deploy [this](https://gitlab.com/potato1234/mc-2) on render or another full-stack hosting provider and set an enviorment variable called SERVER to your 1.12.2 offline mode minecraft server.

@@ -1,17 +1,12 @@
 #!/bin/bash
 set -e
 
-LOG_FILE="/workspace/creation_log.txt"
-
-echo "Enter your SERVER address: " | tee -a $LOG_FILE
 read -p "Enter your SERVER address: " SERVER
 export SERVER
 
-echo "custom MTOD? (y/n): " | tee -a $LOG_FILE
 read -p "custom MTOD? (y/n): " USE_CUSTOM_MTOD
 
 if [[ "$USE_CUSTOM_MTOD" == "y" || "$USE_CUSTOM_MTOD" == "Y" ]]; then
-  echo "Enter your custom MTOD: " | tee -a $LOG_FILE
   read -p "Enter your custom MTOD: " MTOD
 else
   MTOD="@atypicalpotato on youtube"

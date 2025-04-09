@@ -1,4 +1,5 @@
 {
   "name": "Eagler",
-  "image": "qwedfrnhgef/eagler:latest"
+  "image": "qwedfrnhgef/eagler:latest",
+  "postCreateCommand": "./.devcontainer/main.sh"
 }

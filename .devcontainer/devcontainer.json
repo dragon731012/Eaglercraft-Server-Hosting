@@ -1,4 +1,8 @@
 {
   "name": "Eagler",
-  "image": "qwedfrnhgef/codespaces:latest"
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "workspaceMount": "source=${localWorkspaceFolder},target=/workspaces/${localWorkspaceFolderBasename},type=bind",
+  "workspaceFolder": "/workspaces"
 }

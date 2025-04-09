@@ -1,3 +1,4 @@
+#!/bin/bash
 set -e
 
 read -p "Enter your SERVER address (e.g., localhost:25565): " SERVER

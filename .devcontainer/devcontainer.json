@@ -1,8 +1,7 @@
 {
   "name": "Eagler",
   "build": {
-    "dockerfile": "Dockerfile"  // Make sure Dockerfile path is correct
+    "dockerfile": "Dockerfile"
   },
-  "workspaceMount": "source=${localWorkspaceFolder},target=/workspaces/${localWorkspaceFolderBasename},type=bind",  // Mount the local workspace
-  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}"
+  "postStartCommand": "./startup.sh"
 }

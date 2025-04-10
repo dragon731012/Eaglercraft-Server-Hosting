@@ -2,6 +2,5 @@
   "name": "Eagler",
   "build": {
     "dockerfile": "Dockerfile"
-  },
-  "postCreateCommand": "bash startup.sh"
+  }
 }

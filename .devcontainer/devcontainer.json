@@ -3,5 +3,5 @@
   "build": {
     "dockerfile": "Dockerfile"
   },
-  "postCreateCommand": "cd .. && bash startup.sh"
+  "postCreateCommand": "bash startup.sh"
 }

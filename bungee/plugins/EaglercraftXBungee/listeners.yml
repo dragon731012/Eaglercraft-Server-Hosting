@@ -10,7 +10,7 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: IMG_1027.png
   server_motd:
-  - ${MTOD}
+  - "@atypicalpotato on youtube"
   allow_motd: true
   allow_query: true
   request_motd_cache:

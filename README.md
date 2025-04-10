@@ -16,6 +16,9 @@ Directions:
 8. Click open in browser
 9. Enjoy!
 ___
+### Github Codespaces ONLY
+
+___
 ### Other:
 Just deploy [this](https://gitlab.com/potato1234/mc-2) on render or another full-stack hosting provider and set an enviorment variable called SERVER to your 1.12.2 offline mode minecraft server.
 

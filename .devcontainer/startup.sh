@@ -1,3 +1,4 @@
+cd ..
 cd bungee
 java -jar bungee.jar &
 cd ..

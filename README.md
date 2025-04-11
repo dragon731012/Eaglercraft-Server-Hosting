@@ -1,8 +1,12 @@
 # How to make a 1.12.2 eaglercraft server
 ## Deployment methods:
 ### Render.com + Falixnodes:
-REPO: https://gitlab.com/potato1234/mc-2
-Video Tutorial: https://youtu.be/0aCJhbfsU_I?si=7duTmjFaAt4t-w_7
+[REPO](https://gitlab.com/potato1234/mc-2)<br>
+[Video Tutorial](https://youtu.be/0aCJhbfsU_I?si=7duTmjFaAt4t-w_7)
+___
+### Github Codespaces ONLY
+[Branch](https://github.com/dragon731012/Eaglercraft-1.12-Server-Hosting/tree/codespaces-ONLY)<br>
+[Video Tutorial](https://youtu.be/DBW86hmzppY?si=Gg-LYZIQE_1lxCWO)
 ___
 ### Github Codespaces + Falixnodes
 Directions:

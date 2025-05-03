@@ -8,17 +8,26 @@ body,html{
   scroll-behavior: smooth;
 }
 
+#title{
+  align-self: center;
+  align-self: center;
+  font-size: 5vh;
+  text-align: center;
+  width: 100%;
+}
+
 #intro{
-  background-image: url("images/dirt.jpg");
+  background-image: url(images/dirt.jpg);
   background-repeat: repeat-x;
-  background-size:15%;
+  background-size: 15%;
   z-index: -1;
   width: 100vw;
-  min-height: 100vh;
   display: flex;
-  position: absolute;
+  position: relative;
   left: 0px;
   top: 0px;
   padding: 0px;
   margin: 0px;
+  flex-direction: column;
+  color: white;
 }

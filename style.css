@@ -1,3 +1,8 @@
+@font-face {
+  font-family: minecraft;
+  src: url(Minecraft.ttf);
+}
+
 body {
   color: rgb(0, 0, 0);
 }
@@ -13,6 +18,8 @@ body,html{
   font-size: 5vh;
   text-align: center;
   width: 100%;
+  font-family: minecraft;
+  color: white;
 }
 
 #intro{

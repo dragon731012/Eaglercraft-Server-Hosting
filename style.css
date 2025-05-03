@@ -9,7 +9,7 @@ body,html{
 }
 
 #intro{
-  background-image: url("/images/Grass_Block_%28side_texture%29");
+  background-image: url("images/dirt.jpg");
   background-repeat: repeat-x;
   background-size:15%;
   z-index: -1;

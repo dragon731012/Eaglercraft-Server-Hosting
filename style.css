@@ -15,6 +15,7 @@ body {
 }
 
 body,html{
+  overflow: hidden;
   margin: 0;
   padding: 0;
   scroll-behavior: smooth;
@@ -36,6 +37,7 @@ body,html{
   background-image: url(images/dirt.jpg);
   background-repeat: repeat;
   background-size: 15%;
+  height: 100vh;
   z-index: -1;
   width: 100vw;
   display: flex;

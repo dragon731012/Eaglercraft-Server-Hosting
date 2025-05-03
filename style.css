@@ -4,8 +4,11 @@
 }
 
 a{
+  color: white;
+  text-decoration: none;
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 200;
   font-style: normal;
-  color:#75aaff;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
@@ -32,6 +35,10 @@ body,html{
     margin-top: 15vh;
     margin-bottom: 10vh;
 }
+
+#methods{
+  font-size: 3.3vh;
+} 
 
 #intro{
   background-image: url(images/dirt.jpg);

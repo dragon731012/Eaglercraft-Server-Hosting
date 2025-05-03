@@ -22,19 +22,19 @@ body,html{
 
 #title{
   align-self: center;
-  font-size: 5vh;
-  font-weight: 100;
-  text-align: center;
-  width: 100%;
-  font-family: minecraft;
-  color: white;
-  margin-top: 5vh;
-  margin-bottom: 1vh;
+    font-size: 5vh;
+    font-weight: 100;
+    text-align: center;
+    width: 100%;
+    font-family: minecraft;
+    color: white;
+    margin-top: 15vh;
+    margin-bottom: 10vh;
 }
 
 #intro{
   background-image: url(images/dirt.jpg);
-  background-repeat: repeat-x;
+  background-repeat: repeat;
   background-size: 15%;
   z-index: -1;
   width: 100vw;

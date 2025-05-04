@@ -17,7 +17,7 @@ a{
   height: 10vh;
   display: flex;
   align-items: center;
-  background: #9e9590;
+  background: rgba(158, 149, 144, 0.6);
   width: fit-content;
   border-radius: 5vh;
   padding-left: 1vw;

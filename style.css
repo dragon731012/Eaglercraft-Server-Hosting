@@ -72,6 +72,13 @@ body,html{
   color: white;
 }
 
+.methodtitle{
+  font-family: minecraft;
+  font-weight: 100;
+  font-size: 5vh;
+  margin-left: 3vh;
+}
+
 #methodcont{
   background-image: url(images/stone.jpg);
   background-repeat: repeat;

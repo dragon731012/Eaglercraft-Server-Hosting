@@ -42,6 +42,11 @@ body,html{
   scroll-behavior: smooth;
 }
 
+.head{
+  font-size:3vh;
+  margin-bottom: 0px;
+}
+
 #title{
   align-self: center;
     font-size: 5vh;

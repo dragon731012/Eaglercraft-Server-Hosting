@@ -21,11 +21,18 @@ a{
   width: fit-content;
   border-radius: 5vh;
   padding-left: 1vw;
+  margin-top: 3vh;
   padding-right: 1vw;
 }
 
 body {
   color: rgb(0, 0, 0);
+}
+
+.methodtext a {
+  font-size: 3vh;
+  color: #d6dfff;
+  text-decoration: underline;
 }
 
 body,html{

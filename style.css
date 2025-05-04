@@ -71,3 +71,19 @@ body,html{
   flex-direction: column;
   color: white;
 }
+
+#methodcont{
+  background-image: url(images/stone.jpg);
+  background-repeat: repeat;
+  background-size: 15%;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  position: relative;
+  left: 0px;
+  top: 0px;
+  padding: 0px;
+  margin: 0px;
+  flex-direction: column;
+  color: white;
+}

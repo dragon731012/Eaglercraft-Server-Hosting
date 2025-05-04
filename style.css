@@ -94,3 +94,8 @@ body,html{
   flex-direction: column;
   color: white;
 }
+
+.methodtext{
+  margin-left: 3vh;
+  font-family: 'IBM Plex Mono', monospace;
+}

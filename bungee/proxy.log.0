@@ -1,0 +1,1917 @@
+17:09:30 [INFO] Using mbed TLS based native cipher.
+17:09:30 [INFO] Using zlib based native compressor.
+17:09:30 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:7340f1a:1889
+17:09:30 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+17:09:30 [INFO] Epoll is working, utilising it!
+17:09:30 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+17:09:30 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+17:09:30 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+17:09:30 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+17:09:30 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+17:09:30 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+17:09:30 [INFO] Attempting to update plugin from ModuleVersion(build=511, git=dca72c2) to ModuleVersion(build=1889, git=7340f1a)
+17:09:30 [INFO] Attempting to Jenkins download module cmd_alert v1889
+17:09:31 [INFO] Download complete
+17:09:31 [INFO] Attempting to update plugin from ModuleVersion(build=511, git=dca72c2) to ModuleVersion(build=1889, git=7340f1a)
+17:09:31 [INFO] Attempting to Jenkins download module cmd_find v1889
+17:09:31 [INFO] Download complete
+17:09:31 [INFO] Attempting to update plugin from ModuleVersion(build=511, git=dca72c2) to ModuleVersion(build=1889, git=7340f1a)
+17:09:31 [INFO] Attempting to Jenkins download module cmd_list v1889
+17:09:32 [INFO] Download complete
+17:09:32 [INFO] Attempting to update plugin from ModuleVersion(build=511, git=dca72c2) to ModuleVersion(build=1889, git=7340f1a)
+17:09:32 [INFO] Attempting to Jenkins download module cmd_send v1889
+17:09:32 [INFO] Download complete
+17:09:32 [INFO] Attempting to update plugin from ModuleVersion(build=511, git=dca72c2) to ModuleVersion(build=1889, git=7340f1a)
+17:09:32 [INFO] Attempting to Jenkins download module cmd_server v1889
+17:09:32 [INFO] Download complete
+17:09:32 [INFO] Attempting to update plugin from ModuleVersion(build=511, git=dca72c2) to ModuleVersion(build=1889, git=7340f1a)
+17:09:32 [INFO] Attempting to Jenkins download module reconnect_yaml v1889
+17:09:32 [INFO] Download complete
+17:09:32 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+17:09:32 [INFO] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+17:09:32 [INFO] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+17:09:32 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+17:09:32 [INFO] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+17:09:32 [INFO] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+17:09:32 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+17:09:32 [WARNING] :>  
+17:09:32 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+17:09:32 [WARNING] :>  
+17:09:32 [WARNING] :>  This plugin wasn't tested to be 'working'
+17:09:32 [WARNING] :>  with ANY version of BungeeCord (and forks)
+17:09:32 [WARNING] :>  apart from the versions listed below:
+17:09:32 [WARNING] :>  
+17:09:32 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:0aa2871:1893
+17:09:32 [WARNING] :>  - https://ci.md-5.net/job/BungeeCord/1893/artifact/bootstrap/target/BungeeCord.jar
+17:09:32 [WARNING] :>  
+17:09:32 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:9ab9e2b:582
+17:09:32 [WARNING] :>  - https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/582/downloads/waterfall-1.21-582.jar
+17:09:32 [WARNING] :>  
+17:09:32 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+17:09:32 [WARNING] :>  
+17:09:32 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+17:09:32 [WARNING] :>  
+17:09:32 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+17:09:33 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+17:09:34 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+17:09:34 [INFO] Loaded plugin EaglercraftXBungee version 1.3.6 by lax1dude
+17:09:34 [WARNING] Forced host server pvp is not defined
+17:09:34 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+17:09:34 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+17:09:34 [INFO] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+17:09:34 [INFO] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+17:09:34 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+17:09:34 [INFO] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+17:09:34 [INFO] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+17:09:34 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+17:09:34 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+17:09:34 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+17:09:34 [INFO] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+17:09:34 [INFO] Enabled plugin EaglercraftXBungee version 1.3.6 by lax1dude
+17:09:34 [INFO] Listening on /127.0.0.1:25577
+17:09:35 [INFO] [EaglercraftXBungee] Downloading new certificate: https://eaglercraft.com/backup.cert
+17:09:35 [INFO] [EaglercraftXBungee] Downloading new certificate: https://deev.is/eagler/backup.cert
+17:09:35 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ac3aaed1273ced06ef766ab055337fbf29dc3347.cert
+17:09:35 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.6a314f63448f669bee13950455200751edda2564.cert
+17:09:35 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
+17:10:26 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/IMG_1027.png
+17:11:19 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45562]: Connected via websocket
+17:11:19 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45562]: Origin header is null
+17:11:20 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45562]: Logged in as 'reaper'
+17:11:20 [INFO] [reaper] -> UpstreamBridge has connected
+17:11:20 [INFO] [reaper] <-> ServerConnector [lobby] has connected
+17:11:34 [INFO] [reaper] -> UpstreamBridge has disconnected
+17:11:34 [INFO] [reaper] <-> DownstreamBridge <-> [lobby] has disconnected
+17:11:48 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49306]: Connected via websocket
+17:11:48 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49306]: Origin header is null
+17:11:48 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49306]: Logged in as 'Cheddeder'
+17:11:48 [INFO] [Cheddeder] -> UpstreamBridge has connected
+17:11:48 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+17:11:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49310]: Connected via websocket
+17:11:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49310]: Origin header is null
+17:11:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49310]: Logged in as 'reaper'
+17:11:49 [INFO] [reaper] -> UpstreamBridge has connected
+17:11:49 [INFO] [reaper] <-> ServerConnector [lobby] has connected
+17:11:49 [INFO] [reaper] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+17:11:49 [INFO] [reaper] -> UpstreamBridge has disconnected
+17:11:49 [INFO] [reaper] <-> ServerConnector [lobby] has disconnected
+17:11:51 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49316]: Connected via websocket
+17:11:51 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49316]: Origin header is null
+17:11:51 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49316]: Logged in as 'Nalla'
+17:11:51 [INFO] [Nalla] -> UpstreamBridge has connected
+17:11:51 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+17:11:51 [INFO] [Nalla] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+17:11:51 [INFO] [Nalla] -> UpstreamBridge has disconnected
+17:11:51 [INFO] [Nalla] <-> ServerConnector [lobby] has disconnected
+17:11:59 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52692]: Connected via websocket
+17:11:59 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52692]: Origin header is null
+17:11:59 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52692]: Logged in as 'reaper'
+17:11:59 [INFO] [reaper] -> UpstreamBridge has connected
+17:11:59 [INFO] [reaper] <-> ServerConnector [lobby] has connected
+17:12:00 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52694]: Connected via websocket
+17:12:00 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52694]: Origin header is null
+17:12:00 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52694]: Logged in as 'Nalla'
+17:12:00 [INFO] [Nalla] -> UpstreamBridge has connected
+17:12:00 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+17:12:00 [INFO] [Nalla] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+17:12:00 [INFO] [Nalla] -> UpstreamBridge has disconnected
+17:12:00 [INFO] [Nalla] <-> ServerConnector [lobby] has disconnected
+17:12:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:47232]: Connected via websocket
+17:12:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:47232]: Origin header is null
+17:12:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:47232]: Logged in as 'Nalla'
+17:12:07 [INFO] [Nalla] -> UpstreamBridge has connected
+17:12:07 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+17:13:39 [INFO] [Cheddeder] disconnected with: §f§cProxy lost connection to server.
+17:13:39 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+17:13:39 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+17:13:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:50064]: Connected via websocket
+17:13:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:50064]: Origin header is null
+17:13:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:50064]: Logged in as 'Cheddeder'
+17:13:49 [INFO] [Cheddeder] -> UpstreamBridge has connected
+17:13:49 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+17:17:08 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58242]: Connected via websocket
+17:17:08 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58242]: Origin header is null
+17:17:08 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58242]: Logged in as 'YeelerYeeish5318'
+17:17:08 [INFO] [YeelerYeeish5318] -> UpstreamBridge has connected
+17:17:08 [INFO] [YeelerYeeish5318] <-> ServerConnector [lobby] has connected
+17:17:17 [INFO] [Cheddeder] disconnected with: §f§cProxy lost connection to server.
+17:17:17 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+17:17:17 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+17:17:34 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59512]: Connected via websocket
+17:17:34 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59512]: Origin header is null
+17:17:34 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59512]: Logged in as 'Cheddeder'
+17:17:34 [INFO] [Cheddeder] -> UpstreamBridge has connected
+17:17:34 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+17:18:45 [INFO] [reaper] disconnected with: §f§cProxy lost connection to server.
+17:18:45 [INFO] [reaper] <-> DownstreamBridge <-> [lobby] has disconnected
+17:18:45 [INFO] [reaper] -> UpstreamBridge has disconnected
+17:25:46 [INFO] [Cheddeder] disconnected with: §f§cProxy lost connection to server.
+17:25:46 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+17:25:46 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+17:29:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49666]: Connected via websocket
+17:29:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49666]: Origin header is null
+17:29:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49666]: Logged in as 'Cheddeder'
+17:29:07 [INFO] [Cheddeder] -> UpstreamBridge has connected
+17:29:07 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+17:29:52 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:54608]: Connected via websocket
+17:29:52 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:54608]: Origin header is null
+17:29:53 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:54608]: Logged in as 'reaper'
+17:29:53 [INFO] [reaper] -> UpstreamBridge has connected
+17:29:53 [INFO] [reaper] <-> ServerConnector [lobby] has connected
+17:30:00 [INFO] [reaper] -> UpstreamBridge has disconnected
+17:30:00 [INFO] [reaper] <-> DownstreamBridge <-> [lobby] has disconnected
+17:37:44 [INFO] [Nalla] disconnected with: §fServer closed
+17:37:44 [INFO] [Nalla] -> UpstreamBridge has disconnected
+17:37:44 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+17:37:44 [INFO] [Cheddeder] disconnected with: §fServer closed
+17:37:44 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+17:37:44 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+17:37:44 [INFO] [YeelerYeeish5318] disconnected with: §fServer closed
+17:37:44 [INFO] [YeelerYeeish5318] -> UpstreamBridge has disconnected
+17:37:44 [INFO] [YeelerYeeish5318] <-> DownstreamBridge <-> [lobby] has disconnected
+17:37:52 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40394]: Connected via websocket
+17:37:52 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40394]: Origin header is null
+17:37:52 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40394]: Logged in as 'YeelerYeeish5318'
+17:37:52 [INFO] [YeelerYeeish5318] -> UpstreamBridge has connected
+17:37:52 [INFO] [YeelerYeeish5318] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+17:37:52 [INFO] [YeelerYeeish5318] -> UpstreamBridge has disconnected
+17:37:58 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34324]: Connected via websocket
+17:37:58 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34324]: Origin header is null
+17:37:58 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34324]: Logged in as 'YeelerYeeish5318'
+17:37:58 [INFO] [YeelerYeeish5318] -> UpstreamBridge has connected
+17:37:58 [INFO] [YeelerYeeish5318] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+17:37:58 [INFO] [YeelerYeeish5318] -> UpstreamBridge has disconnected
+17:38:18 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40292]: Connected via websocket
+17:38:18 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40292]: Origin header is null
+17:38:18 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40292]: Logged in as 'Cheddeder'
+17:38:18 [INFO] [Cheddeder] -> UpstreamBridge has connected
+17:38:18 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+17:38:21 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40294]: Connected via websocket
+17:38:21 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40294]: Origin header is null
+17:38:21 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40294]: Logged in as 'YeelerYeeish5318'
+17:38:21 [INFO] [YeelerYeeish5318] -> UpstreamBridge has connected
+17:38:21 [INFO] [YeelerYeeish5318] <-> ServerConnector [lobby] has connected
+17:38:21 [INFO] [YeelerYeeish5318] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+17:38:21 [INFO] [YeelerYeeish5318] -> UpstreamBridge has disconnected
+17:38:21 [INFO] [YeelerYeeish5318] <-> ServerConnector [lobby] has disconnected
+17:38:22 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40308]: Connected via websocket
+17:38:22 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40308]: Origin header is null
+17:38:22 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40308]: Logged in as 'Nalla'
+17:38:22 [INFO] [Nalla] -> UpstreamBridge has connected
+17:38:22 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+17:38:22 [INFO] [Nalla] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+17:38:22 [INFO] [Nalla] -> UpstreamBridge has disconnected
+17:38:22 [INFO] [Nalla] <-> ServerConnector [lobby] has disconnected
+17:38:23 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40310]: Connected via websocket
+17:38:23 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40310]: Origin header is null
+17:38:23 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40310]: Logged in as 'YeelerYeeish5318'
+17:38:23 [INFO] [YeelerYeeish5318] -> UpstreamBridge has connected
+17:38:23 [INFO] [YeelerYeeish5318] <-> ServerConnector [lobby] has connected
+17:38:23 [INFO] [YeelerYeeish5318] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+17:38:23 [INFO] [YeelerYeeish5318] -> UpstreamBridge has disconnected
+17:38:23 [INFO] [YeelerYeeish5318] <-> ServerConnector [lobby] has disconnected
+17:38:29 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37390]: Connected via websocket
+17:38:29 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37390]: Origin header is null
+17:38:29 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37390]: Logged in as 'Nalla'
+17:38:29 [INFO] [Nalla] -> UpstreamBridge has connected
+17:38:29 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+17:38:45 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59838]: Connected via websocket
+17:38:45 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59838]: Origin header is null
+17:38:45 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59838]: Logged in as 'YeelerYeeish5318'
+17:38:45 [INFO] [YeelerYeeish5318] -> UpstreamBridge has connected
+17:38:45 [INFO] [YeelerYeeish5318] <-> ServerConnector [lobby] has connected
+17:40:26 [INFO] [Cheddeder] disconnected with: §f§cProxy lost connection to server.
+17:40:26 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+17:40:26 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+17:40:34 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53096]: Connected via websocket
+17:40:34 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53096]: Origin header is null
+17:40:34 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53096]: Logged in as 'Cheddeder'
+17:40:34 [INFO] [Cheddeder] -> UpstreamBridge has connected
+17:40:34 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+17:42:12 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+17:42:12 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+17:42:13 [INFO] [YeelerYeeish5318] -> UpstreamBridge has disconnected
+17:42:13 [INFO] [YeelerYeeish5318] <-> DownstreamBridge <-> [lobby] has disconnected
+17:42:27 [INFO] [Nalla] -> UpstreamBridge has disconnected
+17:42:27 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+17:42:42 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57366]: Connected via websocket
+17:42:42 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57366]: Origin header is null
+17:42:42 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57366]: Logged in as 'YeelerYeeish5318'
+17:42:42 [INFO] [YeelerYeeish5318] -> UpstreamBridge has connected
+17:42:42 [INFO] [YeelerYeeish5318] <-> ServerConnector [lobby] has connected
+17:42:58 [INFO] [YeelerYeeish5318] -> UpstreamBridge has disconnected
+17:42:58 [INFO] [YeelerYeeish5318] <-> DownstreamBridge <-> [lobby] has disconnected
+17:43:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44356]: Connected via websocket
+17:43:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44356]: Origin header is null
+17:43:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44356]: Logged in as 'Nalla'
+17:43:07 [INFO] [Nalla] -> UpstreamBridge has connected
+17:43:07 [INFO] [Nalla] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+17:43:07 [INFO] [Nalla] -> UpstreamBridge has disconnected
+17:43:12 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44358]: Connected via websocket
+17:43:12 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44358]: Origin header is null
+17:43:12 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44358]: Logged in as 'Nalla'
+17:43:12 [INFO] [Nalla] -> UpstreamBridge has connected
+17:43:12 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+17:43:27 [INFO] [Nalla] disconnected with: §fServer is restarting
+17:43:27 [INFO] [Nalla] -> UpstreamBridge has disconnected
+17:43:27 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+17:43:40 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44580]: Connected via websocket
+17:43:40 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44580]: Origin header is null
+17:43:40 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44580]: Logged in as 'Nalla'
+17:43:40 [INFO] [Nalla] -> UpstreamBridge has connected
+17:43:40 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+17:45:52 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51518]: Connected via websocket
+17:45:52 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51518]: Origin header is null
+17:45:52 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51518]: Logged in as 'Cheddeder'
+17:45:52 [INFO] [Cheddeder] -> UpstreamBridge has connected
+17:45:52 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+17:46:21 [INFO] [Nalla] -> UpstreamBridge has disconnected
+17:46:21 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+17:46:32 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37372]: Connected via websocket
+17:46:32 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37372]: Origin header is null
+17:46:32 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37372]: Logged in as 'ifarted69'
+17:46:32 [INFO] [ifarted69] -> UpstreamBridge has connected
+17:46:32 [INFO] [ifarted69] <-> ServerConnector [lobby] has connected
+17:46:50 [INFO] [ifarted69] -> UpstreamBridge has disconnected
+17:46:50 [INFO] [ifarted69] <-> DownstreamBridge <-> [lobby] has disconnected
+17:48:09 [INFO] [Cheddeder] disconnected with: §fServer closed
+17:48:09 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+17:48:09 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+17:48:29 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:36570]: Connected via websocket
+17:48:29 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:36570]: Origin header is null
+17:48:29 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:36570]: Logged in as 'Cheddeder'
+17:48:29 [INFO] [Cheddeder] -> UpstreamBridge has connected
+17:48:29 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+17:50:01 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+17:50:01 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+17:55:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33708]: Connected via websocket
+17:55:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33708]: Origin header is null
+17:55:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33708]: Logged in as 'Cheddeder'
+17:55:49 [INFO] [Cheddeder] -> UpstreamBridge has connected
+17:55:49 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+17:56:51 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+17:56:51 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+19:02:53 [INFO] Using mbed TLS based native cipher.
+19:02:53 [INFO] Using zlib based native compressor.
+19:02:53 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:7340f1a:1889
+19:02:53 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+19:02:53 [INFO] Epoll is working, utilising it!
+19:02:53 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+19:02:53 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+19:02:53 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+19:02:53 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+19:02:53 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+19:02:53 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+19:02:53 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+19:02:53 [INFO] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+19:02:53 [INFO] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+19:02:53 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+19:02:53 [INFO] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+19:02:53 [INFO] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+19:02:53 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+19:02:53 [WARNING] :>  
+19:02:53 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+19:02:53 [WARNING] :>  
+19:02:53 [WARNING] :>  This plugin wasn't tested to be 'working'
+19:02:53 [WARNING] :>  with ANY version of BungeeCord (and forks)
+19:02:53 [WARNING] :>  apart from the versions listed below:
+19:02:53 [WARNING] :>  
+19:02:53 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:0aa2871:1893
+19:02:53 [WARNING] :>  - https://ci.md-5.net/job/BungeeCord/1893/artifact/bootstrap/target/BungeeCord.jar
+19:02:53 [WARNING] :>  
+19:02:53 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:9ab9e2b:582
+19:02:53 [WARNING] :>  - https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/582/downloads/waterfall-1.21-582.jar
+19:02:53 [WARNING] :>  
+19:02:53 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+19:02:53 [WARNING] :>  
+19:02:53 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+19:02:53 [WARNING] :>  
+19:02:53 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+19:02:54 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+19:02:55 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+19:02:55 [INFO] Loaded plugin EaglercraftXBungee version 1.3.6 by lax1dude
+19:02:55 [WARNING] Forced host server pvp is not defined
+19:02:55 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+19:02:55 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+19:02:55 [INFO] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+19:02:55 [INFO] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+19:02:55 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+19:02:55 [INFO] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+19:02:55 [INFO] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+19:02:55 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+19:02:55 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+19:02:55 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+19:02:55 [INFO] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+19:02:55 [INFO] Enabled plugin EaglercraftXBungee version 1.3.6 by lax1dude
+19:02:55 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ac3aaed1273ced06ef766ab055337fbf29dc3347.cert
+19:02:55 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.6a314f63448f669bee13950455200751edda2564.cert
+19:02:55 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
+19:02:55 [INFO] Listening on /127.0.0.1:25577
+19:03:20 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/IMG_1027.png
+19:03:21 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57258]: Connected via websocket
+19:03:21 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57258]: Origin header is null
+19:03:21 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57258]: Logged in as 'Cheddeder'
+19:03:21 [INFO] [Cheddeder] -> UpstreamBridge has connected
+19:03:21 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+19:07:25 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48182]: Connected via websocket
+19:07:25 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48182]: Origin header is null
+19:07:26 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48182]: Logged in as 'Nalla'
+19:07:26 [INFO] [Nalla] -> UpstreamBridge has connected
+19:07:26 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+19:09:07 [INFO] [Nalla] -> UpstreamBridge has disconnected
+19:09:07 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+19:11:40 [INFO] [Cheddeder] disconnected with: §fTimed out
+19:11:40 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+19:11:40 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+19:12:27 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59402]: Connected via websocket
+19:12:27 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59402]: Origin header is null
+19:12:27 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59402]: Logged in as 'Cheddeder'
+19:12:27 [INFO] [Cheddeder] -> UpstreamBridge has connected
+19:12:27 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+19:14:31 [INFO] [Cheddeder] disconnected with: §f§cProxy lost connection to server.
+19:14:31 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+19:14:31 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+19:15:35 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35686]: Connected via websocket
+19:15:35 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35686]: Origin header is null
+19:15:35 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35686]: Logged in as 'Cheddeder'
+19:15:35 [INFO] [Cheddeder] -> UpstreamBridge has connected
+19:15:35 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+19:37:35 [INFO] [Cheddeder] disconnected with: §f§cProxy lost connection to server.
+19:37:35 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+19:37:35 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+19:40:43 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:55676]: Connected via websocket
+19:40:43 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:55676]: Origin header is null
+19:40:43 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:55676]: Logged in as 'Cheddeder'
+19:40:43 [INFO] [Cheddeder] -> UpstreamBridge has connected
+19:40:43 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+19:49:00 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48816]: Connected via websocket
+19:49:00 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48816]: Origin header is null
+19:49:00 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48816]: Logged in as 'Nalla'
+19:49:00 [INFO] [Nalla] -> UpstreamBridge has connected
+19:49:00 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+19:51:05 [INFO] [Cheddeder] disconnected with: §f§cProxy lost connection to server.
+19:51:05 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+19:51:05 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+19:51:18 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34608]: Connected via websocket
+19:51:18 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34608]: Origin header is null
+19:51:18 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34608]: Logged in as 'Cheddeder'
+19:51:18 [INFO] [Cheddeder] -> UpstreamBridge has connected
+19:51:18 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+19:56:30 [INFO] [Nalla] -> UpstreamBridge has disconnected
+19:56:30 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+19:57:34 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+19:57:34 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+20:16:40 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42104]: Connected via websocket
+20:16:40 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42104]: Origin header is null
+20:16:40 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42104]: Logged in as 'Cheddeder'
+20:16:40 [INFO] [Cheddeder] -> UpstreamBridge has connected
+20:16:40 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+20:16:58 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59056]: Connected via websocket
+20:16:58 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59056]: Origin header is null
+20:16:59 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59056]: Logged in as 'Nalla'
+20:16:59 [INFO] [Nalla] -> UpstreamBridge has connected
+20:16:59 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+20:21:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46584]: Connected via websocket
+20:21:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46584]: Origin header is http://localhost:8081
+20:21:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46584]: Logged in as 'ifarted69'
+20:21:28 [INFO] [ifarted69] -> UpstreamBridge has connected
+20:21:28 [INFO] [ifarted69] <-> ServerConnector [lobby] has connected
+20:32:04 [INFO] [Nalla] -> UpstreamBridge has disconnected
+20:32:04 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+20:32:07 [INFO] [ifarted69] -> UpstreamBridge has disconnected
+20:32:07 [INFO] [ifarted69] <-> DownstreamBridge <-> [lobby] has disconnected
+20:32:34 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+20:32:34 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+20:58:43 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59658]: Connected via websocket
+20:58:43 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59658]: Origin header is null
+20:58:43 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59658]: Logged in as 'ifarted69'
+20:58:43 [INFO] [ifarted69] -> UpstreamBridge has connected
+20:58:43 [INFO] [ifarted69] <-> ServerConnector [lobby] has connected
+20:59:38 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42608]: Connected via websocket
+20:59:38 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42608]: Origin header is http://localhost:8081
+20:59:38 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42608]: Logged in as 'Cheddeder'
+20:59:38 [INFO] [Cheddeder] -> UpstreamBridge has connected
+20:59:38 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+21:00:08 [INFO] [ifarted69] -> UpstreamBridge has disconnected
+21:00:08 [INFO] [ifarted69] <-> DownstreamBridge <-> [lobby] has disconnected
+21:00:12 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53826]: Connected via websocket
+21:00:12 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53826]: Origin header is null
+21:00:12 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53826]: Logged in as 'ifarted69'
+21:00:12 [INFO] [ifarted69] -> UpstreamBridge has connected
+21:00:12 [INFO] [ifarted69] <-> ServerConnector [lobby] has connected
+21:00:15 [INFO] [ifarted69] -> UpstreamBridge has disconnected
+21:00:15 [INFO] [ifarted69] <-> DownstreamBridge <-> [lobby] has disconnected
+21:00:18 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+21:00:18 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+21:26:55 [INFO] Using mbed TLS based native cipher.
+21:26:55 [INFO] Using zlib based native compressor.
+21:26:55 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:7340f1a:1889
+21:26:56 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+21:26:56 [INFO] Epoll is working, utilising it!
+21:26:56 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+21:26:56 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+21:26:56 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+21:26:56 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+21:26:56 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+21:26:56 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:26:56 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:26:56 [INFO] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:26:56 [INFO] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:26:56 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:26:56 [INFO] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:26:56 [INFO] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:26:56 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+21:26:56 [WARNING] :>  
+21:26:56 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+21:26:56 [WARNING] :>  
+21:26:56 [WARNING] :>  This plugin wasn't tested to be 'working'
+21:26:56 [WARNING] :>  with ANY version of BungeeCord (and forks)
+21:26:56 [WARNING] :>  apart from the versions listed below:
+21:26:56 [WARNING] :>  
+21:26:56 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:0aa2871:1893
+21:26:56 [WARNING] :>  - https://ci.md-5.net/job/BungeeCord/1893/artifact/bootstrap/target/BungeeCord.jar
+21:26:56 [WARNING] :>  
+21:26:56 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:9ab9e2b:582
+21:26:56 [WARNING] :>  - https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/582/downloads/waterfall-1.21-582.jar
+21:26:56 [WARNING] :>  
+21:26:56 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+21:26:56 [WARNING] :>  
+21:26:56 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+21:26:56 [WARNING] :>  
+21:26:56 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+21:26:56 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+21:26:59 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+21:26:59 [INFO] Loaded plugin EaglercraftXBungee version 1.3.6 by lax1dude
+21:26:59 [WARNING] Forced host server pvp is not defined
+21:26:59 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+21:26:59 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:26:59 [INFO] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:26:59 [INFO] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:26:59 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:26:59 [INFO] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:26:59 [INFO] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:26:59 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+21:26:59 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+21:27:00 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+21:27:00 [INFO] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+21:27:00 [INFO] Enabled plugin EaglercraftXBungee version 1.3.6 by lax1dude
+21:27:00 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ac3aaed1273ced06ef766ab055337fbf29dc3347.cert
+21:27:00 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.6a314f63448f669bee13950455200751edda2564.cert
+21:27:00 [INFO] Listening on /127.0.0.1:25577
+21:27:00 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
+21:31:03 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/IMG_1027.png
+21:31:11 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46012]: Connected via websocket
+21:31:11 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46012]: Origin header is null
+21:31:11 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46012]: Logged in as 'Cheddeder'
+21:31:12 [INFO] [Cheddeder] -> UpstreamBridge has connected
+21:31:12 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+21:32:59 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40222]: Connected via websocket
+21:32:59 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40222]: Origin header is null
+21:32:59 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40222]: Logged in as 'Nalla'
+21:32:59 [INFO] [Nalla] -> UpstreamBridge has connected
+21:32:59 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+21:33:51 [INFO] [Nalla] -> UpstreamBridge has disconnected
+21:33:51 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+21:36:01 [INFO] [Cheddeder] disconnected with: §f§cProxy lost connection to server.
+21:36:01 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+21:36:01 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+21:39:04 [INFO] §cCommand not found
+21:39:07 [INFO] Closing listener [id: 0xa99acebd, L:/127.0.0.1:25577]
+21:39:07 [INFO] Closing pending connections
+21:39:07 [INFO] Disconnecting 0 connections
+21:39:07 [INFO] Disabling plugins
+21:39:07 [INFO] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+21:39:07 [INFO] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+21:39:07 [INFO] [EaglercraftXBungee] Stopping skin cache HTTP client...
+21:39:09 [INFO] Closing IO threads
+21:39:21 [INFO] Using mbed TLS based native cipher.
+21:39:21 [INFO] Using zlib based native compressor.
+21:39:21 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:7340f1a:1889
+21:39:21 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+21:39:21 [INFO] Epoll is working, utilising it!
+21:39:21 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+21:39:21 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+21:39:21 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+21:39:21 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+21:39:21 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+21:39:21 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:39:22 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:39:22 [INFO] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:39:22 [INFO] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:39:22 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:39:22 [INFO] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:39:22 [INFO] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:39:22 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+21:39:22 [WARNING] :>  
+21:39:22 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+21:39:22 [WARNING] :>  
+21:39:22 [WARNING] :>  This plugin wasn't tested to be 'working'
+21:39:22 [WARNING] :>  with ANY version of BungeeCord (and forks)
+21:39:22 [WARNING] :>  apart from the versions listed below:
+21:39:22 [WARNING] :>  
+21:39:22 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:0aa2871:1893
+21:39:22 [WARNING] :>  - https://ci.md-5.net/job/BungeeCord/1893/artifact/bootstrap/target/BungeeCord.jar
+21:39:22 [WARNING] :>  
+21:39:22 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:9ab9e2b:582
+21:39:22 [WARNING] :>  - https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/582/downloads/waterfall-1.21-582.jar
+21:39:22 [WARNING] :>  
+21:39:22 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+21:39:22 [WARNING] :>  
+21:39:22 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+21:39:22 [WARNING] :>  
+21:39:22 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+21:39:22 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+21:39:23 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+21:39:23 [INFO] Loaded plugin EaglercraftXBungee version 1.3.6 by lax1dude
+21:39:23 [WARNING] Forced host server pvp is not defined
+21:39:23 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+21:39:23 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:39:23 [INFO] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:39:23 [INFO] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:39:23 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:39:23 [INFO] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:39:23 [INFO] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:39:23 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+21:39:23 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+21:39:23 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+21:39:23 [INFO] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+21:39:23 [INFO] Enabled plugin EaglercraftXBungee version 1.3.6 by lax1dude
+21:39:23 [INFO] Listening on /127.0.0.1:25577
+21:39:24 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ac3aaed1273ced06ef766ab055337fbf29dc3347.cert
+21:39:24 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.6a314f63448f669bee13950455200751edda2564.cert
+21:39:24 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
+21:40:44 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/IMG_1027.png
+21:40:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:47158]: Connected via websocket
+21:40:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:47158]: Origin header is null
+21:40:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:47158]: Logged in as 'Cheddeder'
+21:40:49 [INFO] [Cheddeder] -> UpstreamBridge has connected
+21:40:49 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+21:40:54 [INFO] [Cheddeder] <-> ServerConnector [Survival] has connected
+21:40:54 [SEVERE] [Cheddeder] <-> ServerConnector [Survival] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+21:40:54 [INFO] [Cheddeder] <-> ServerConnector [Survival] has disconnected
+21:41:50 [INFO] [Cheddeder] <-> ServerConnector [Survival] has connected
+21:41:50 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+21:42:33 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+21:42:33 [INFO] [Cheddeder] <-> DownstreamBridge <-> [Survival] has disconnected
+21:47:20 [INFO] [Cheddeder] <-> ServerConnector [Survival] has connected
+21:47:20 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+21:47:35 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+21:47:35 [INFO] [Cheddeder] <-> DownstreamBridge <-> [Survival] has disconnected
+21:47:39 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44174]: Connected via websocket
+21:47:39 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44174]: Origin header is null
+21:47:39 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44174]: Logged in as 'Cheddeder'
+21:47:39 [INFO] [Cheddeder] -> UpstreamBridge has connected
+21:47:39 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+21:47:46 [INFO] [Cheddeder] <-> ServerConnector [Survival] has connected
+21:47:46 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+21:48:00 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+21:48:00 [INFO] [Cheddeder] <-> DownstreamBridge <-> [Survival] has disconnected
+21:48:16 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58674]: Connected via websocket
+21:48:16 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58674]: Origin header is null
+21:48:16 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58674]: Logged in as 'Cheddeder'
+21:48:16 [INFO] [Cheddeder] -> UpstreamBridge has connected
+21:48:16 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+21:48:24 [INFO] [Cheddeder] <-> ServerConnector [Survival] has connected
+21:48:24 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+21:48:36 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+21:48:36 [INFO] [Cheddeder] <-> DownstreamBridge <-> [Survival] has disconnected
+21:50:38 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:41556]: Connected via websocket
+21:50:38 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:41556]: Origin header is null
+21:50:39 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:41556]: Logged in as 'Cheddeder'
+21:50:39 [INFO] [Cheddeder] -> UpstreamBridge has connected
+21:50:39 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+21:51:57 [INFO] [Cheddeder] disconnected with: §f§cProxy lost connection to server.
+21:51:57 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+21:51:57 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+21:52:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45258]: Connected via websocket
+21:52:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45258]: Origin header is null
+21:52:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45258]: Logged in as 'Cheddeder'
+21:52:49 [INFO] [Cheddeder] -> UpstreamBridge has connected
+21:52:49 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+21:54:04 [INFO] [Cheddeder] disconnected with: §f§cProxy lost connection to server.
+21:54:04 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+21:54:04 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+22:01:51 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:56742]: Connected via websocket
+22:01:51 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:56742]: Origin header is null
+22:01:51 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:56742]: Logged in as 'Cheddeder'
+22:01:51 [INFO] [Cheddeder] -> UpstreamBridge has connected
+22:01:51 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+22:03:49 [INFO] [Cheddeder] disconnected with: §f§cProxy lost connection to server.
+22:03:49 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+22:03:49 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+22:10:01 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48630]: Connected via websocket
+22:10:01 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48630]: Origin header is null
+22:10:01 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48630]: Logged in as 'Cheddeder'
+22:10:01 [INFO] [Cheddeder] -> UpstreamBridge has connected
+22:10:01 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+22:13:51 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+22:13:51 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+22:41:29 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45490]: Connected via websocket
+22:41:29 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45490]: Origin header is null
+22:41:29 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45490]: Logged in as 'Cheddeder'
+22:41:29 [INFO] [Cheddeder] -> UpstreamBridge has connected
+22:41:29 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+22:45:27 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+22:45:27 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+22:54:33 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38086]: Connected via websocket
+22:54:33 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38086]: Origin header is null
+22:54:33 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38086]: Logged in as 'Cheddeder'
+22:54:33 [INFO] [Cheddeder] -> UpstreamBridge has connected
+22:54:33 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+22:56:34 [INFO] [Cheddeder] disconnected with: §fTimed out
+22:56:34 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+22:56:34 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+22:57:05 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:60690]: Connected via websocket
+22:57:05 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:60690]: Origin header is null
+22:57:05 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:60690]: Logged in as 'Cheddeder'
+22:57:05 [INFO] [Cheddeder] -> UpstreamBridge has connected
+22:57:05 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+22:57:50 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+22:57:50 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+23:02:42 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57996]: Connected via websocket
+23:02:42 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57996]: Origin header is null
+23:02:42 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57996]: Logged in as 'Cheddeder'
+23:02:42 [INFO] [Cheddeder] -> UpstreamBridge has connected
+23:02:42 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+23:12:45 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+23:12:45 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+23:29:42 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37506]: Connected via websocket
+23:29:42 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37506]: Origin header is null
+23:29:42 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37506]: Logged in as 'Nalla'
+23:29:42 [INFO] [Nalla] -> UpstreamBridge has connected
+23:29:42 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+23:50:18 [INFO] [Nalla] -> UpstreamBridge has disconnected
+23:50:18 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+23:50:34 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39140]: Connected via websocket
+23:50:34 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39140]: Origin header is null
+23:50:34 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39140]: Logged in as 'Nalla'
+23:50:34 [INFO] [Nalla] -> UpstreamBridge has connected
+23:50:34 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+00:11:46 [INFO] [Nalla] -> UpstreamBridge has disconnected
+00:11:46 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+00:12:16 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57516]: Connected via websocket
+00:12:16 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57516]: Origin header is null
+00:12:16 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57516]: Logged in as 'Nalla'
+00:12:16 [INFO] [Nalla] -> UpstreamBridge has connected
+00:12:16 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+00:14:46 [INFO] [Nalla] disconnected with: §fTimed out
+00:14:46 [INFO] [Nalla] -> UpstreamBridge has disconnected
+00:14:46 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+00:15:24 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:56094]: Connected via websocket
+00:15:24 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:56094]: Origin header is null
+00:15:24 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:56094]: Logged in as 'Nalla'
+00:15:24 [INFO] [Nalla] -> UpstreamBridge has connected
+00:15:24 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+18:33:02 [INFO] Using mbed TLS based native cipher.
+18:33:02 [INFO] Using zlib based native compressor.
+18:33:02 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:7340f1a:1889
+18:33:02 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+18:33:02 [INFO] Epoll is working, utilising it!
+18:33:02 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+18:33:02 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+18:33:02 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+18:33:02 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+18:33:02 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+18:33:02 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+18:33:03 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+18:33:03 [INFO] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+18:33:03 [INFO] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+18:33:03 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+18:33:03 [INFO] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+18:33:03 [INFO] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+18:33:03 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+18:33:03 [WARNING] :>  
+18:33:03 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+18:33:03 [WARNING] :>  
+18:33:03 [WARNING] :>  This plugin wasn't tested to be 'working'
+18:33:03 [WARNING] :>  with ANY version of BungeeCord (and forks)
+18:33:03 [WARNING] :>  apart from the versions listed below:
+18:33:03 [WARNING] :>  
+18:33:03 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:0aa2871:1893
+18:33:03 [WARNING] :>  - https://ci.md-5.net/job/BungeeCord/1893/artifact/bootstrap/target/BungeeCord.jar
+18:33:03 [WARNING] :>  
+18:33:03 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:9ab9e2b:582
+18:33:03 [WARNING] :>  - https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/582/downloads/waterfall-1.21-582.jar
+18:33:03 [WARNING] :>  
+18:33:03 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+18:33:03 [WARNING] :>  
+18:33:03 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+18:33:03 [WARNING] :>  
+18:33:03 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+18:33:03 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+18:33:05 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+18:33:05 [INFO] Loaded plugin EaglercraftXBungee version 1.3.6 by lax1dude
+18:33:05 [WARNING] Forced host server pvp is not defined
+18:33:05 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+18:33:05 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+18:33:05 [INFO] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+18:33:05 [INFO] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+18:33:05 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+18:33:05 [INFO] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+18:33:05 [INFO] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+18:33:05 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+18:33:05 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+18:33:05 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+18:33:05 [INFO] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+18:33:05 [INFO] Enabled plugin EaglercraftXBungee version 1.3.6 by lax1dude
+18:33:05 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ac3aaed1273ced06ef766ab055337fbf29dc3347.cert
+18:33:05 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.6a314f63448f669bee13950455200751edda2564.cert
+18:33:05 [INFO] Listening on /127.0.0.1:25577
+18:33:05 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
+18:35:34 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/IMG_1027.png
+18:35:36 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:50198]: Connected via websocket
+18:35:36 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:50198]: Origin header is null
+18:35:36 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:50198]: Logged in as 'Nalla'
+18:35:36 [INFO] [Nalla] -> UpstreamBridge has connected
+18:35:36 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+18:40:14 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:41002]: Connected via websocket
+18:40:14 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:41002]: Origin header is null
+18:40:14 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:41002]: Logged in as 'Cheddeder'
+18:40:14 [INFO] [Cheddeder] -> UpstreamBridge has connected
+18:40:14 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+18:40:39 [INFO] [Cheddeder] <-> ServerConnector [Survival] has connected
+18:40:39 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+18:40:53 [INFO] [Nalla] <-> ServerConnector [Survival] has connected
+18:40:53 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+18:44:15 [INFO] [Nalla] -> UpstreamBridge has disconnected
+18:44:15 [INFO] [Nalla] <-> DownstreamBridge <-> [Survival] has disconnected
+18:44:35 [INFO] [Cheddeder] disconnected with: §fServer closed
+18:44:35 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+18:44:35 [INFO] [Cheddeder] <-> DownstreamBridge <-> [Survival] has disconnected
+18:44:37 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45272]: Connected via websocket
+18:44:37 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45272]: Origin header is null
+18:44:38 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45272]: Logged in as 'Cheddeder'
+18:44:38 [INFO] [Cheddeder] -> UpstreamBridge has connected
+18:44:38 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+18:45:46 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52974]: Connected via websocket
+18:45:47 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52974]: Origin header is null
+18:45:47 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52974]: Logged in as 'Nalla'
+18:45:47 [INFO] [Nalla] -> UpstreamBridge has connected
+18:45:47 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+18:45:47 [WARNING] [EaglercraftXBungee] Deleting stale certificate: $dl.6a314f63448f669bee13950455200751edda2564.cert
+18:45:47 [WARNING] [EaglercraftXBungee] Certificate was deleted: $dl.6a314f63448f669bee13950455200751edda2564.cert
+18:45:54 [INFO] [Nalla] <-> ServerConnector [Survival] has connected
+18:45:54 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+18:46:08 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+18:46:08 [INFO] [Nalla] <-> DownstreamBridge <-> [Survival] has disconnected
+18:46:13 [INFO] [Nalla] -> UpstreamBridge has disconnected
+18:46:13 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+18:46:29 [INFO] [Cheddeder] <-> ServerConnector [Survival] has connected
+18:46:29 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+18:46:53 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35770]: Connected via websocket
+18:46:53 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35770]: Origin header is null
+18:46:53 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35770]: Logged in as 'Nalla'
+18:46:53 [INFO] [Nalla] -> UpstreamBridge has connected
+18:46:53 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+18:47:00 [INFO] [Nalla] <-> ServerConnector [Survival] has connected
+18:47:00 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+18:47:34 [INFO] [Nalla] -> UpstreamBridge has disconnected
+18:47:34 [INFO] [Nalla] <-> DownstreamBridge <-> [Survival] has disconnected
+18:47:53 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:47070]: Connected via websocket
+18:47:53 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:47070]: Origin header is null
+18:47:53 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:47070]: Logged in as 'Nalla'
+18:47:53 [INFO] [Nalla] -> UpstreamBridge has connected
+18:47:53 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+18:48:05 [INFO] [Nalla] <-> ServerConnector [Survival] has connected
+18:48:05 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+18:50:23 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+18:50:23 [INFO] [Cheddeder] <-> DownstreamBridge <-> [Survival] has disconnected
+18:51:00 [INFO] [Nalla] disconnected with: §fServer closed
+18:51:00 [INFO] [Nalla] -> UpstreamBridge has disconnected
+18:51:00 [INFO] [Nalla] <-> DownstreamBridge <-> [Survival] has disconnected
+18:51:11 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:55376]: Connected via websocket
+18:51:11 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:55376]: Origin header is null
+18:51:11 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:55376]: Logged in as 'Nalla'
+18:51:11 [INFO] [Nalla] -> UpstreamBridge has connected
+18:51:11 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+18:51:17 [INFO] [Nalla] <-> ServerConnector [Survival] has connected
+18:51:17 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+18:51:23 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39660]: Connected via websocket
+18:51:23 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39660]: Origin header is null
+18:51:23 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39660]: Logged in as 'Cheddeder'
+18:51:23 [INFO] [Cheddeder] -> UpstreamBridge has connected
+18:51:23 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+18:51:26 [INFO] [Cheddeder] <-> ServerConnector [Survival] has connected
+18:51:26 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+18:52:08 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+18:52:08 [INFO] [Nalla] <-> DownstreamBridge <-> [Survival] has disconnected
+18:52:42 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+18:52:42 [INFO] [Cheddeder] <-> DownstreamBridge <-> [Survival] has disconnected
+18:52:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37408]: Connected via websocket
+18:52:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37408]: Origin header is null
+18:52:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37408]: Logged in as 'Cheddeder'
+18:52:44 [INFO] [Cheddeder] -> UpstreamBridge has connected
+18:52:44 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+18:56:15 [INFO] [Nalla] <-> ServerConnector [Survival] has connected
+18:56:15 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+18:56:16 [INFO] [Cheddeder] <-> ServerConnector [Survival] has connected
+18:56:16 [INFO] [Cheddeder] <-> ServerConnector [Survival] has disconnected
+18:56:19 [INFO] [Cheddeder] <-> ServerConnector [Survival] has connected
+18:56:19 [INFO] [Cheddeder] <-> ServerConnector [Survival] has disconnected
+18:56:21 [INFO] [Cheddeder] <-> ServerConnector [Survival] has connected
+18:56:21 [INFO] [Cheddeder] <-> ServerConnector [Survival] has disconnected
+18:56:27 [INFO] [Cheddeder] <-> ServerConnector [Survival] has connected
+18:56:27 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+18:57:40 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+18:57:40 [INFO] [Cheddeder] <-> DownstreamBridge <-> [Survival] has disconnected
+18:57:41 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57036]: Connected via websocket
+18:57:41 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57036]: Origin header is null
+18:57:41 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57036]: Logged in as 'Cheddeder'
+18:57:41 [INFO] [Cheddeder] -> UpstreamBridge has connected
+18:57:41 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+18:57:55 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+18:57:55 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+18:58:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39548]: Connected via websocket
+18:58:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39548]: Origin header is null
+18:58:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39548]: Logged in as 'Cheddeder'
+18:58:28 [INFO] [Cheddeder] -> UpstreamBridge has connected
+18:58:28 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+18:58:33 [INFO] [Cheddeder] <-> ServerConnector [Survival] has connected
+18:58:33 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+19:05:43 [INFO] [Cheddeder] <-> DownstreamBridge <-> [Survival] has disconnected
+19:05:43 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+19:06:13 [INFO] [Cheddeder] disconnected with: §f§cProxy lost connection to server.
+19:06:13 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+19:06:13 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+19:07:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:43684]: Connected via websocket
+19:07:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:43684]: Origin header is null
+19:07:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:43684]: Logged in as 'Cheddeder'
+19:07:28 [INFO] [Cheddeder] -> UpstreamBridge has connected
+19:07:28 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+19:07:32 [INFO] [Cheddeder] <-> ServerConnector [Survival] has connected
+19:07:32 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+19:15:50 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+19:15:50 [INFO] [Cheddeder] <-> DownstreamBridge <-> [Survival] has disconnected
+19:16:01 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38830]: Connected via websocket
+19:16:01 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38830]: Origin header is null
+19:16:02 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38830]: Logged in as 'Cheddeder'
+19:16:02 [INFO] [Cheddeder] -> UpstreamBridge has connected
+19:16:02 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+19:16:05 [INFO] [Cheddeder] <-> ServerConnector [Survival] has connected
+19:16:05 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+19:17:05 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57334]: Connected via websocket
+19:17:05 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57334]: Origin header is null
+19:17:05 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57334]: Logged in as 'CheddederALT'
+19:17:05 [INFO] [CheddederALT] -> UpstreamBridge has connected
+19:17:05 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+19:17:10 [INFO] [CheddederALT] <-> ServerConnector [Survival] has connected
+19:17:10 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+19:23:14 [INFO] [Nalla] -> UpstreamBridge has disconnected
+19:23:14 [INFO] [Nalla] <-> DownstreamBridge <-> [Survival] has disconnected
+19:23:35 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+19:23:35 [INFO] [CheddederALT] <-> DownstreamBridge <-> [Survival] has disconnected
+19:23:35 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+19:23:35 [INFO] [Cheddeder] <-> DownstreamBridge <-> [Survival] has disconnected
+19:38:10 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:41982]: Connected via websocket
+19:38:10 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:41982]: Origin header is null
+19:38:10 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:41982]: Logged in as 'Cheddeder'
+19:38:10 [INFO] [Cheddeder] -> UpstreamBridge has connected
+19:38:10 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+19:38:15 [INFO] [Cheddeder] <-> ServerConnector [Survival] has connected
+19:38:15 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+19:38:26 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51610]: Connected via websocket
+19:38:26 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51610]: Origin header is null
+19:38:26 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51610]: Logged in as 'Nalla'
+19:38:26 [INFO] [Nalla] -> UpstreamBridge has connected
+19:38:26 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+19:38:40 [INFO] [Nalla] <-> ServerConnector [Survival] has connected
+19:38:40 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+19:39:00 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37186]: Connected via websocket
+19:39:00 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37186]: Origin header is null
+19:39:00 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37186]: Logged in as 'CheddederALT'
+19:39:00 [INFO] [CheddederALT] -> UpstreamBridge has connected
+19:39:00 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+19:39:10 [INFO] [CheddederALT] <-> ServerConnector [Survival] has connected
+19:39:10 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+19:39:41 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59542]: Connected via websocket
+19:39:41 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59542]: Origin header is http://localhost:8081
+19:39:41 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59542]: Logged in as 'JaceGottaMace'
+19:39:41 [INFO] [JaceGottaMace] -> UpstreamBridge has connected
+19:39:41 [INFO] [JaceGottaMace] <-> ServerConnector [lobby] has connected
+19:40:06 [INFO] [JaceGottaMace] <-> ServerConnector [Survival] has connected
+19:40:06 [INFO] [JaceGottaMace] <-> DownstreamBridge <-> [lobby] has disconnected
+19:49:12 [INFO] [JaceGottaMace] -> UpstreamBridge has disconnected
+19:49:12 [INFO] [JaceGottaMace] <-> DownstreamBridge <-> [Survival] has disconnected
+19:49:17 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39994]: Connected via websocket
+19:49:17 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39994]: Origin header is http://localhost:8081
+19:49:17 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39994]: Logged in as 'JaceGottaMace'
+19:49:17 [INFO] [JaceGottaMace] -> UpstreamBridge has connected
+19:49:17 [INFO] [JaceGottaMace] <-> ServerConnector [lobby] has connected
+19:49:26 [INFO] [JaceGottaMace] <-> ServerConnector [Survival] has connected
+19:49:26 [INFO] [JaceGottaMace] <-> DownstreamBridge <-> [lobby] has disconnected
+19:49:38 [INFO] [JaceGottaMace] -> UpstreamBridge has disconnected
+19:49:38 [INFO] [JaceGottaMace] <-> DownstreamBridge <-> [Survival] has disconnected
+19:51:19 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:43000]: Connected via websocket
+19:51:19 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:43000]: Origin header is http://localhost:8081
+19:51:19 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:43000]: Logged in as 'JaceGottaMace'
+19:51:19 [INFO] [JaceGottaMace] -> UpstreamBridge has connected
+19:51:19 [INFO] [JaceGottaMace] <-> ServerConnector [lobby] has connected
+19:51:24 [INFO] [JaceGottaMace] <-> ServerConnector [Survival] has connected
+19:51:24 [INFO] [JaceGottaMace] <-> DownstreamBridge <-> [lobby] has disconnected
+19:51:39 [INFO] [JaceGottaMace] -> UpstreamBridge has disconnected
+19:51:39 [INFO] [JaceGottaMace] <-> DownstreamBridge <-> [Survival] has disconnected
+19:52:25 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44894]: Connected via websocket
+19:52:25 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44894]: Origin header is http://localhost:8081
+19:52:26 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44894]: Logged in as 'JaceGottaMace'
+19:52:26 [INFO] [JaceGottaMace] -> UpstreamBridge has connected
+19:52:26 [INFO] [JaceGottaMace] <-> ServerConnector [lobby] has connected
+19:52:35 [INFO] [JaceGottaMace] <-> ServerConnector [Survival] has connected
+19:52:35 [INFO] [JaceGottaMace] <-> DownstreamBridge <-> [lobby] has disconnected
+19:54:50 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+19:54:50 [INFO] [CheddederALT] <-> DownstreamBridge <-> [Survival] has disconnected
+19:54:52 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:55814]: Connected via websocket
+19:54:52 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:55814]: Origin header is null
+19:54:52 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:55814]: Logged in as 'CheddederALT'
+19:54:52 [INFO] [CheddederALT] -> UpstreamBridge has connected
+19:54:52 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+19:54:55 [INFO] [CheddederALT] <-> ServerConnector [Survival] has connected
+19:54:55 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+19:57:10 [INFO] [JaceGottaMace] -> UpstreamBridge has disconnected
+19:57:10 [INFO] [JaceGottaMace] <-> DownstreamBridge <-> [Survival] has disconnected
+19:57:13 [INFO] [Nalla] -> UpstreamBridge has disconnected
+19:57:13 [INFO] [Nalla] <-> DownstreamBridge <-> [Survival] has disconnected
+19:57:38 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+19:57:38 [INFO] [CheddederALT] <-> DownstreamBridge <-> [Survival] has disconnected
+19:57:41 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34796]: Connected via websocket
+19:57:41 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34796]: Origin header is null
+19:57:41 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34796]: Logged in as 'Nalla'
+19:57:41 [INFO] [Nalla] -> UpstreamBridge has connected
+19:57:41 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+19:57:41 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34800]: Connected via websocket
+19:57:41 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34800]: Origin header is null
+19:57:42 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34800]: Logged in as 'CheddederALT'
+19:57:42 [INFO] [CheddederALT] -> UpstreamBridge has connected
+19:57:42 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+19:57:42 [INFO] [CheddederALT] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+19:57:42 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+19:57:42 [INFO] [CheddederALT] <-> ServerConnector [lobby] has disconnected
+19:57:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34814]: Connected via websocket
+19:57:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34814]: Origin header is null
+19:57:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34814]: Logged in as 'CheddederALT'
+19:57:44 [INFO] [CheddederALT] -> UpstreamBridge has connected
+19:57:44 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+19:57:44 [INFO] [CheddederALT] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+19:57:44 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+19:57:44 [INFO] [CheddederALT] <-> ServerConnector [lobby] has disconnected
+19:57:47 [INFO] [Nalla] <-> ServerConnector [Survival] has connected
+19:57:47 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+19:57:47 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34834]: Connected via websocket
+19:57:47 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34834]: Origin header is null
+19:57:48 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34834]: Logged in as 'CheddederALT'
+19:57:48 [INFO] [CheddederALT] -> UpstreamBridge has connected
+19:57:48 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+19:57:48 [INFO] [CheddederALT] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+19:57:48 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+19:57:48 [INFO] [CheddederALT] <-> ServerConnector [lobby] has disconnected
+19:57:51 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:41582]: Connected via websocket
+19:57:51 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:41582]: Origin header is null
+19:57:51 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:41582]: Logged in as 'CheddederALT'
+19:57:51 [INFO] [CheddederALT] -> UpstreamBridge has connected
+19:57:51 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+19:57:51 [INFO] [CheddederALT] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+19:57:51 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+19:57:51 [INFO] [CheddederALT] <-> ServerConnector [lobby] has disconnected
+19:57:56 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:41596]: Connected via websocket
+19:57:56 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:41596]: Origin header is null
+19:57:56 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:41596]: Logged in as 'CheddederALT'
+19:57:56 [INFO] [CheddederALT] -> UpstreamBridge has connected
+19:57:56 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+19:57:59 [INFO] [CheddederALT] <-> ServerConnector [Survival] has connected
+19:58:00 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+19:59:07 [INFO] [Nalla] -> UpstreamBridge has disconnected
+19:59:07 [INFO] [Nalla] <-> DownstreamBridge <-> [Survival] has disconnected
+19:59:29 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+19:59:29 [INFO] [CheddederALT] <-> DownstreamBridge <-> [Survival] has disconnected
+19:59:29 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+19:59:29 [INFO] [Cheddeder] <-> DownstreamBridge <-> [Survival] has disconnected
+20:23:54 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:36806]: Connected via websocket
+20:23:54 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:36806]: Origin header is null
+20:23:54 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:36806]: Logged in as 'Nalla'
+20:23:54 [INFO] [Nalla] -> UpstreamBridge has connected
+20:23:54 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+20:24:02 [INFO] [Nalla] <-> ServerConnector [Survival] has connected
+20:24:03 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+21:02:38 [INFO] Using mbed TLS based native cipher.
+21:02:38 [INFO] Using zlib based native compressor.
+21:02:38 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:7340f1a:1889
+21:02:38 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+21:02:38 [INFO] Epoll is working, utilising it!
+21:02:38 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+21:02:38 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+21:02:38 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+21:02:38 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+21:02:38 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+21:02:38 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:02:38 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:02:38 [INFO] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:02:38 [INFO] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:02:38 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:02:38 [INFO] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:02:38 [INFO] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:02:38 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+21:02:38 [WARNING] :>  
+21:02:38 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+21:02:38 [WARNING] :>  
+21:02:38 [WARNING] :>  This plugin wasn't tested to be 'working'
+21:02:38 [WARNING] :>  with ANY version of BungeeCord (and forks)
+21:02:38 [WARNING] :>  apart from the versions listed below:
+21:02:38 [WARNING] :>  
+21:02:38 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:0aa2871:1893
+21:02:38 [WARNING] :>  - https://ci.md-5.net/job/BungeeCord/1893/artifact/bootstrap/target/BungeeCord.jar
+21:02:38 [WARNING] :>  
+21:02:38 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:9ab9e2b:582
+21:02:38 [WARNING] :>  - https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/582/downloads/waterfall-1.21-582.jar
+21:02:38 [WARNING] :>  
+21:02:38 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+21:02:38 [WARNING] :>  
+21:02:38 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+21:02:38 [WARNING] :>  
+21:02:38 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+21:02:38 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+21:02:39 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+21:02:39 [INFO] Loaded plugin EaglercraftXBungee version 1.3.6 by lax1dude
+21:02:40 [WARNING] Forced host server pvp is not defined
+21:02:40 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+21:02:40 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:02:40 [INFO] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:02:40 [INFO] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:02:40 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:02:40 [INFO] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:02:40 [INFO] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:02:40 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+21:02:40 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+21:02:40 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+21:02:40 [INFO] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+21:02:40 [INFO] Enabled plugin EaglercraftXBungee version 1.3.6 by lax1dude
+21:02:40 [INFO] Listening on /127.0.0.1:25577
+21:02:41 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ac3aaed1273ced06ef766ab055337fbf29dc3347.cert
+21:02:41 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
+21:02:49 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/IMG_1027.png
+21:02:50 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:56200]: Connected via websocket
+21:02:50 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:56200]: Origin header is null
+21:02:51 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:56200]: Logged in as 'Cheddeder'
+21:02:51 [INFO] [Cheddeder] -> UpstreamBridge has connected
+21:02:51 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+21:18:30 [INFO] Using mbed TLS based native cipher.
+21:18:30 [INFO] Using zlib based native compressor.
+21:18:30 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:7340f1a:1889
+21:18:30 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+21:18:30 [INFO] Epoll is working, utilising it!
+21:18:30 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+21:18:30 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+21:18:30 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+21:18:30 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+21:18:30 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+21:18:30 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:18:31 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:18:31 [INFO] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:18:31 [INFO] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:18:31 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:18:31 [INFO] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:18:31 [INFO] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:18:31 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+21:18:31 [WARNING] :>  
+21:18:31 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+21:18:31 [WARNING] :>  
+21:18:31 [WARNING] :>  This plugin wasn't tested to be 'working'
+21:18:31 [WARNING] :>  with ANY version of BungeeCord (and forks)
+21:18:31 [WARNING] :>  apart from the versions listed below:
+21:18:31 [WARNING] :>  
+21:18:31 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:0aa2871:1893
+21:18:31 [WARNING] :>  - https://ci.md-5.net/job/BungeeCord/1893/artifact/bootstrap/target/BungeeCord.jar
+21:18:31 [WARNING] :>  
+21:18:31 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:9ab9e2b:582
+21:18:31 [WARNING] :>  - https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/582/downloads/waterfall-1.21-582.jar
+21:18:31 [WARNING] :>  
+21:18:31 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+21:18:31 [WARNING] :>  
+21:18:31 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+21:18:31 [WARNING] :>  
+21:18:31 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+21:18:31 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+21:18:33 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+21:18:33 [INFO] Loaded plugin EaglercraftXBungee version 1.3.6 by lax1dude
+21:18:33 [WARNING] Forced host server pvp is not defined
+21:18:33 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+21:18:33 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:18:33 [INFO] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:18:33 [INFO] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:18:33 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:18:33 [INFO] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:18:33 [INFO] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+21:18:33 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+21:18:33 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+21:18:33 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+21:18:33 [INFO] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+21:18:33 [INFO] Enabled plugin EaglercraftXBungee version 1.3.6 by lax1dude
+21:18:33 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ac3aaed1273ced06ef766ab055337fbf29dc3347.cert
+21:18:33 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
+21:18:33 [INFO] Listening on /127.0.0.1:25577
+21:19:13 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/IMG_1027.png
+21:19:15 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40806]: Connected via websocket
+21:19:15 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40806]: Origin header is null
+21:19:15 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40806]: Logged in as 'Cheddeder'
+21:19:15 [INFO] [Cheddeder] -> UpstreamBridge has connected
+21:19:16 [WARNING] Plugin listener net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.handlers.EaglerPacketEventListener took 86ms to process event PostLoginEvent(player=Cheddeder, target=BungeeServerInfo(name=lobby, socketAddress=/0.0.0.0:25566, restricted=false))!
+21:19:16 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+21:19:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45566]: Connected via websocket
+21:19:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45566]: Origin header is null
+21:19:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45566]: Logged in as 'CheddederALT'
+21:19:28 [INFO] [CheddederALT] -> UpstreamBridge has connected
+21:19:28 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+21:21:23 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59664]: Connected via websocket
+21:21:23 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59664]: Origin header is null
+21:21:23 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59664]: Logged in as 'Nalla'
+21:21:23 [INFO] [Nalla] -> UpstreamBridge has connected
+21:21:23 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+21:23:15 [INFO] [Nalla] -> UpstreamBridge has disconnected
+21:23:15 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+21:27:44 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+21:27:44 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+21:27:49 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+21:27:49 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+21:49:20 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58306]: Connected via websocket
+21:49:20 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58306]: Origin header is null
+21:49:20 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58306]: Logged in as 'CheddederALT'
+21:49:20 [INFO] [CheddederALT] -> UpstreamBridge has connected
+21:49:20 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+21:49:44 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+21:49:44 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+22:02:15 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:43006]: Connected via websocket
+22:02:15 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:43006]: Origin header is null
+22:02:15 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:43006]: Logged in as 'CheddederALT'
+22:02:15 [INFO] [CheddederALT] -> UpstreamBridge has connected
+22:02:15 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+22:02:49 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+22:02:49 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+22:08:12 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44520]: Connected via websocket
+22:08:12 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44520]: Origin header is null
+22:08:12 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44520]: Logged in as 'Cheddeder'
+22:08:12 [INFO] [Cheddeder] -> UpstreamBridge has connected
+22:08:12 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+22:08:18 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44532]: Connected via websocket
+22:08:18 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44532]: Origin header is null
+22:08:18 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44532]: Logged in as 'CheddederALT'
+22:08:18 [INFO] [CheddederALT] -> UpstreamBridge has connected
+22:08:18 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+22:12:42 [INFO] [CheddederALT] disconnected with: §f§cProxy lost connection to server.
+22:12:42 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+22:12:42 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+22:14:48 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35382]: Connected via websocket
+22:14:48 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35382]: Origin header is null
+22:14:48 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35382]: Logged in as 'CheddederALT'
+22:14:48 [INFO] [CheddederALT] -> UpstreamBridge has connected
+22:14:48 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+22:17:59 [INFO] [Cheddeder] disconnected with: §f§cProxy lost connection to server.
+22:17:59 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+22:17:59 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+22:19:01 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+22:19:01 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+22:48:24 [INFO] Using mbed TLS based native cipher.
+22:48:24 [INFO] Using zlib based native compressor.
+22:48:24 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:7340f1a:1889
+22:48:24 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+22:48:24 [INFO] Epoll is working, utilising it!
+22:48:24 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+22:48:24 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+22:48:24 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+22:48:24 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+22:48:24 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+22:48:24 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+22:48:24 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+22:48:24 [INFO] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+22:48:24 [INFO] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+22:48:24 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+22:48:24 [INFO] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+22:48:24 [INFO] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+22:48:24 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+22:48:24 [WARNING] :>  
+22:48:24 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+22:48:24 [WARNING] :>  
+22:48:24 [WARNING] :>  This plugin wasn't tested to be 'working'
+22:48:24 [WARNING] :>  with ANY version of BungeeCord (and forks)
+22:48:24 [WARNING] :>  apart from the versions listed below:
+22:48:24 [WARNING] :>  
+22:48:24 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:0aa2871:1893
+22:48:24 [WARNING] :>  - https://ci.md-5.net/job/BungeeCord/1893/artifact/bootstrap/target/BungeeCord.jar
+22:48:24 [WARNING] :>  
+22:48:24 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:9ab9e2b:582
+22:48:24 [WARNING] :>  - https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/582/downloads/waterfall-1.21-582.jar
+22:48:24 [WARNING] :>  
+22:48:24 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+22:48:24 [WARNING] :>  
+22:48:24 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+22:48:24 [WARNING] :>  
+22:48:24 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+22:48:24 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+22:48:25 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+22:48:25 [INFO] Loaded plugin EaglercraftXBungee version 1.3.6 by lax1dude
+22:48:25 [WARNING] Forced host server pvp is not defined
+22:48:25 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+22:48:25 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+22:48:25 [INFO] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+22:48:25 [INFO] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+22:48:25 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+22:48:25 [INFO] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+22:48:25 [INFO] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+22:48:25 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+22:48:25 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+22:48:26 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+22:48:26 [INFO] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+22:48:26 [INFO] Enabled plugin EaglercraftXBungee version 1.3.6 by lax1dude
+22:48:26 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ac3aaed1273ced06ef766ab055337fbf29dc3347.cert
+22:48:26 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
+22:48:26 [INFO] Listening on /127.0.0.1:25577
+22:48:35 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/IMG_1027.png
+22:48:37 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:43658]: Connected via websocket
+22:48:37 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:43658]: Origin header is null
+22:48:37 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:43658]: Logged in as 'Cheddeder'
+22:48:37 [INFO] [Cheddeder] -> UpstreamBridge has connected
+22:48:37 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+22:48:48 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+22:48:48 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+22:48:50 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48600]: Connected via websocket
+22:48:50 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48600]: Origin header is null
+22:48:50 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48600]: Logged in as 'CheddederALT'
+22:48:50 [INFO] [CheddederALT] -> UpstreamBridge has connected
+22:48:50 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+22:56:25 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+22:56:25 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+22:56:27 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38942]: Connected via websocket
+22:56:27 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38942]: Origin header is null
+22:56:27 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38942]: Logged in as 'CheddederALT'
+22:56:27 [INFO] [CheddederALT] -> UpstreamBridge has connected
+22:56:27 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+22:57:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45998]: Connected via websocket
+22:57:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45998]: Origin header is null
+22:57:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45998]: Logged in as 'Nalla'
+22:57:28 [INFO] [Nalla] -> UpstreamBridge has connected
+22:57:28 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+23:00:19 [INFO] [Nalla] disconnected with: §fFlying is not enabled on this server
+23:00:19 [INFO] [Nalla] -> UpstreamBridge has disconnected
+23:00:19 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+23:00:21 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+23:00:21 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+23:00:22 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48236]: Connected via websocket
+23:00:22 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48236]: Origin header is null
+23:00:22 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48236]: Logged in as 'Nalla'
+23:00:22 [INFO] [Nalla] -> UpstreamBridge has connected
+23:00:22 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+23:00:24 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48248]: Connected via websocket
+23:00:24 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48248]: Origin header is null
+23:00:24 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48248]: Logged in as 'CheddederALT'
+23:00:24 [INFO] [CheddederALT] -> UpstreamBridge has connected
+23:00:24 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+23:00:24 [INFO] [CheddederALT] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+23:00:24 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+23:00:24 [INFO] [CheddederALT] <-> ServerConnector [lobby] has disconnected
+23:00:26 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48250]: Connected via websocket
+23:00:26 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48250]: Origin header is null
+23:00:26 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48250]: Logged in as 'CheddederALT'
+23:00:26 [INFO] [CheddederALT] -> UpstreamBridge has connected
+23:00:26 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+23:00:26 [INFO] [CheddederALT] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+23:00:26 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+23:00:26 [INFO] [CheddederALT] <-> ServerConnector [lobby] has disconnected
+23:00:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48254]: Connected via websocket
+23:00:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48254]: Origin header is null
+23:00:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48254]: Logged in as 'CheddederALT'
+23:00:28 [INFO] [CheddederALT] -> UpstreamBridge has connected
+23:00:28 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+23:00:28 [INFO] [CheddederALT] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+23:00:28 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+23:00:28 [INFO] [CheddederALT] <-> ServerConnector [lobby] has disconnected
+23:00:35 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35704]: Connected via websocket
+23:00:35 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35704]: Origin header is null
+23:00:35 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35704]: Logged in as 'Cheddeder'
+23:00:35 [INFO] [Cheddeder] -> UpstreamBridge has connected
+23:00:35 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+23:00:37 [INFO] [Nalla] -> UpstreamBridge has disconnected
+23:00:37 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+23:00:42 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53344]: Connected via websocket
+23:00:42 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53344]: Origin header is null
+23:00:42 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53344]: Logged in as 'Nalla'
+23:00:42 [INFO] [Nalla] -> UpstreamBridge has connected
+23:00:42 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+23:00:53 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+23:00:53 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+23:00:57 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44030]: Connected via websocket
+23:00:57 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44030]: Origin header is null
+23:00:57 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44030]: Logged in as 'CheddederALT'
+23:00:57 [INFO] [CheddederALT] -> UpstreamBridge has connected
+23:00:57 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+23:01:23 [INFO] [Nalla] -> UpstreamBridge has disconnected
+23:01:23 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+23:01:26 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:54090]: Connected via websocket
+23:01:26 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:54090]: Origin header is null
+23:01:26 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:54090]: Logged in as 'Nalla'
+23:01:26 [INFO] [Nalla] -> UpstreamBridge has connected
+23:01:26 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+23:01:41 [INFO] [Nalla] -> UpstreamBridge has disconnected
+23:01:41 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+23:01:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39384]: Connected via websocket
+23:01:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39384]: Origin header is null
+23:01:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39384]: Logged in as 'Nalla'
+23:01:44 [INFO] [Nalla] -> UpstreamBridge has connected
+23:01:44 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+23:02:15 [INFO] [Nalla] -> UpstreamBridge has disconnected
+23:02:15 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+23:02:20 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37168]: Connected via websocket
+23:02:20 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37168]: Origin header is null
+23:02:21 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37168]: Logged in as 'Nalla'
+23:02:21 [INFO] [Nalla] -> UpstreamBridge has connected
+23:02:21 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+23:02:35 [INFO] [Nalla] -> UpstreamBridge has disconnected
+23:02:35 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+23:02:40 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52110]: Connected via websocket
+23:02:40 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52110]: Origin header is null
+23:02:40 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52110]: Logged in as 'Nalla'
+23:02:40 [INFO] [Nalla] -> UpstreamBridge has connected
+23:02:40 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+23:03:27 [INFO] [Nalla] -> UpstreamBridge has disconnected
+23:03:27 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+23:03:31 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53106]: Connected via websocket
+23:03:31 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53106]: Origin header is null
+23:03:31 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53106]: Logged in as 'Nalla'
+23:03:31 [INFO] [Nalla] -> UpstreamBridge has connected
+23:03:31 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+23:07:30 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38864]: Connected via websocket
+23:07:30 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38864]: Origin header is null
+23:07:30 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38864]: Logged in as 'Cheddeder'
+23:07:30 [INFO] [Cheddeder] -> UpstreamBridge has connected
+23:07:30 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+23:08:07 [INFO] [CheddederALT] disconnected with: §f§cProxy lost connection to server.
+23:08:07 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+23:08:07 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+23:10:58 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35696]: Connected via websocket
+23:10:58 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35696]: Origin header is null
+23:10:58 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35696]: Logged in as 'CheddederALT'
+23:10:58 [INFO] [CheddederALT] -> UpstreamBridge has connected
+23:10:58 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+23:11:50 [INFO] [Cheddeder] disconnected with: §f§cProxy lost connection to server.
+23:11:50 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+23:11:50 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+23:15:13 [INFO] [CheddederALT] disconnected with: §f§cProxy lost connection to server.
+23:15:13 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+23:15:13 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+23:15:48 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45176]: Connected via websocket
+23:15:48 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45176]: Origin header is null
+23:15:48 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45176]: Logged in as 'Cheddeder'
+23:15:48 [INFO] [Cheddeder] -> UpstreamBridge has connected
+23:15:48 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+23:15:59 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+23:15:59 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+23:16:01 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33920]: Connected via websocket
+23:16:01 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33920]: Origin header is null
+23:16:01 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33920]: Logged in as 'CheddederALT'
+23:16:01 [INFO] [CheddederALT] -> UpstreamBridge has connected
+23:16:01 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+23:17:25 [INFO] [CheddederALT] disconnected with: §f§cProxy lost connection to server.
+23:17:25 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+23:17:25 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+23:18:08 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53064]: Connected via websocket
+23:18:08 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53064]: Origin header is null
+23:18:08 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53064]: Logged in as 'CheddederALT'
+23:18:08 [INFO] [CheddederALT] -> UpstreamBridge has connected
+23:18:08 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+23:21:26 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+23:21:26 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+23:21:31 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48312]: Connected via websocket
+23:21:31 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48312]: Origin header is null
+23:21:31 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48312]: Logged in as 'CheddederALT'
+23:21:31 [INFO] [CheddederALT] -> UpstreamBridge has connected
+23:21:31 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+23:21:38 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+23:21:38 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+23:21:39 [INFO] [Nalla] -> UpstreamBridge has disconnected
+23:21:39 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+23:21:43 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57394]: Connected via websocket
+23:21:43 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57394]: Origin header is null
+23:21:43 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57394]: Logged in as 'Nalla'
+23:21:43 [INFO] [Nalla] -> UpstreamBridge has connected
+23:21:43 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+23:22:33 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59314]: Connected via websocket
+23:22:33 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59314]: Origin header is null
+23:22:33 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59314]: Logged in as 'CheddederALT'
+23:22:33 [INFO] [CheddederALT] -> UpstreamBridge has connected
+23:22:33 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+23:24:27 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+23:24:27 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+23:25:09 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:47660]: Connected via websocket
+23:25:09 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:47660]: Origin header is null
+23:25:09 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:47660]: Logged in as 'CheddederALT'
+23:25:09 [INFO] [CheddederALT] -> UpstreamBridge has connected
+23:25:09 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+23:32:08 [INFO] [CheddederALT] disconnected with: §f§cProxy lost connection to server.
+23:32:08 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+23:32:08 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+23:33:37 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52204]: Connected via websocket
+23:33:37 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52204]: Origin header is null
+23:33:37 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52204]: Logged in as 'CheddederALT'
+23:33:37 [INFO] [CheddederALT] -> UpstreamBridge has connected
+23:33:37 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+23:34:41 [INFO] [Nalla] -> UpstreamBridge has disconnected
+23:34:41 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+23:34:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34488]: Connected via websocket
+23:34:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34488]: Origin header is null
+23:34:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34488]: Logged in as 'Nalla'
+23:34:44 [INFO] [Nalla] -> UpstreamBridge has connected
+23:34:44 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+23:36:38 [INFO] [CheddederALT] disconnected with: §fTimed out
+23:36:38 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+23:36:38 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+23:38:26 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42238]: Connected via websocket
+23:38:26 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42238]: Origin header is null
+23:38:27 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42238]: Logged in as 'CheddederALT'
+23:38:27 [INFO] [CheddederALT] -> UpstreamBridge has connected
+23:38:27 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+23:39:19 [INFO] [CheddederALT] disconnected with: §f§cProxy lost connection to server.
+23:39:19 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+23:39:19 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+23:39:57 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:41152]: Connected via websocket
+23:39:57 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:41152]: Origin header is null
+23:39:57 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:41152]: Logged in as 'CheddederALT'
+23:39:57 [INFO] [CheddederALT] -> UpstreamBridge has connected
+23:39:57 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+23:43:12 [INFO] [CheddederALT] disconnected with: §f§cProxy lost connection to server.
+23:43:12 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+23:43:12 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+23:45:56 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58506]: Connected via websocket
+23:45:56 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58506]: Origin header is null
+23:45:56 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58506]: Logged in as 'CheddederALT'
+23:45:56 [INFO] [CheddederALT] -> UpstreamBridge has connected
+23:45:56 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+23:46:27 [INFO] [Nalla] -> UpstreamBridge has disconnected
+23:46:27 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+23:52:26 [INFO] [CheddederALT] disconnected with: §fTimed out
+23:52:26 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+23:52:26 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+23:53:03 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52386]: Connected via websocket
+23:53:03 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52386]: Origin header is null
+23:53:03 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52386]: Logged in as 'CheddederALT'
+23:53:03 [INFO] [CheddederALT] -> UpstreamBridge has connected
+23:53:03 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+23:55:56 [INFO] [CheddederALT] disconnected with: §f§cProxy lost connection to server.
+23:55:56 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+23:55:56 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+00:02:10 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48370]: Connected via websocket
+00:02:10 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48370]: Origin header is null
+00:02:11 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48370]: Logged in as 'CheddederALT'
+00:02:11 [INFO] [CheddederALT] -> UpstreamBridge has connected
+00:02:11 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+00:02:34 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+00:02:34 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+00:02:37 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57506]: Connected via websocket
+00:02:37 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57506]: Origin header is null
+00:02:37 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57506]: Logged in as 'Cheddeder'
+00:02:37 [INFO] [Cheddeder] -> UpstreamBridge has connected
+00:02:37 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+00:06:21 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+00:06:21 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+00:06:23 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37012]: Connected via websocket
+00:06:23 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37012]: Origin header is null
+00:06:23 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37012]: Logged in as 'Cheddeder'
+00:06:23 [INFO] [Cheddeder] -> UpstreamBridge has connected
+00:06:23 [INFO] [Cheddeder] <-> ServerConnector [lobby] has connected
+00:14:04 [INFO] [Cheddeder] disconnected with: §fServer closed
+00:14:04 [INFO] [Cheddeder] -> UpstreamBridge has disconnected
+00:14:04 [INFO] [Cheddeder] <-> DownstreamBridge <-> [lobby] has disconnected
+01:42:55 [INFO] Using mbed TLS based native cipher.
+01:42:55 [INFO] Using zlib based native compressor.
+01:42:55 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:7340f1a:1889
+01:42:56 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+01:42:56 [INFO] Epoll is working, utilising it!
+01:42:56 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+01:42:56 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+01:42:56 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+01:42:56 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+01:42:56 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+01:42:56 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+01:42:57 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+01:42:57 [INFO] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+01:42:57 [INFO] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+01:42:57 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+01:42:57 [INFO] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+01:42:57 [INFO] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+01:42:57 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+01:42:57 [WARNING] :>  
+01:42:57 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+01:42:57 [WARNING] :>  
+01:42:57 [WARNING] :>  This plugin wasn't tested to be 'working'
+01:42:57 [WARNING] :>  with ANY version of BungeeCord (and forks)
+01:42:57 [WARNING] :>  apart from the versions listed below:
+01:42:57 [WARNING] :>  
+01:42:57 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:0aa2871:1893
+01:42:57 [WARNING] :>  - https://ci.md-5.net/job/BungeeCord/1893/artifact/bootstrap/target/BungeeCord.jar
+01:42:57 [WARNING] :>  
+01:42:57 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:9ab9e2b:582
+01:42:57 [WARNING] :>  - https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/582/downloads/waterfall-1.21-582.jar
+01:42:57 [WARNING] :>  
+01:42:57 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+01:42:57 [WARNING] :>  
+01:42:57 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+01:42:57 [WARNING] :>  
+01:42:57 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+01:42:57 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+01:43:00 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+01:43:00 [INFO] Loaded plugin EaglercraftXBungee version 1.3.6 by lax1dude
+01:43:00 [WARNING] Forced host server pvp is not defined
+01:43:00 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+01:43:00 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+01:43:00 [INFO] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+01:43:00 [INFO] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+01:43:00 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+01:43:00 [INFO] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+01:43:00 [INFO] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+01:43:00 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+01:43:00 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+01:43:01 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+01:43:01 [INFO] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+01:43:01 [INFO] Enabled plugin EaglercraftXBungee version 1.3.6 by lax1dude
+01:43:01 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ac3aaed1273ced06ef766ab055337fbf29dc3347.cert
+01:43:01 [INFO] Listening on /127.0.0.1:25577
+01:43:01 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
+01:43:24 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/IMG_1027.png
+01:43:24 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:50476]: Connected via websocket
+01:43:24 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:50476]: Origin header is null
+01:43:25 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:50476]: Logged in as 'lax1dude'
+01:43:25 [INFO] [lax1dude] -> UpstreamBridge has connected
+01:43:26 [WARNING] Plugin listener net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.handlers.EaglerPacketEventListener took 789ms to process event PostLoginEvent(player=lax1dude, target=BungeeServerInfo(name=lobby, socketAddress=/0.0.0.0:25566, restricted=false))!
+01:43:26 [WARNING] Event PostLoginEvent(player=lax1dude, target=BungeeServerInfo(name=lobby, socketAddress=/0.0.0.0:25566, restricted=false)) took 798ms to process!
+01:43:26 [WARNING] Event LoginEvent(cancelled=false, reason=null, connection=[lax1dude,/0:0:0:0:0:0:0:1:50476] <-> InitialHandler) took 855ms to process!
+01:43:26 [WARNING] Event PreLoginEvent(cancelled=false, reason=null, connection=[lax1dude,/0:0:0:0:0:0:0:1:50476] <-> InitialHandler) took 855ms to process!
+01:43:26 [INFO] [lax1dude] <-> ServerConnector [lobby] has connected
+01:43:40 [INFO] [lax1dude] -> UpstreamBridge has disconnected
+01:43:40 [INFO] [lax1dude] <-> DownstreamBridge <-> [lobby] has disconnected
+01:43:55 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39840]: Connected via websocket
+01:43:55 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39840]: Origin header is null
+01:43:55 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39840]: Logged in as 'CheddederALT'
+01:43:55 [INFO] [CheddederALT] -> UpstreamBridge has connected
+01:43:55 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+01:54:20 [INFO] §cCommand not found
+02:00:12 [INFO] [CheddederALT] disconnected with: §fServer closed
+02:00:12 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+02:00:12 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:00:59 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52706]: Connected via websocket
+02:00:59 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52706]: Origin header is null
+02:00:59 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52706]: Logged in as 'CheddederALT'
+02:00:59 [INFO] [CheddederALT] -> UpstreamBridge has connected
+02:00:59 [INFO] [CheddederALT] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+02:00:59 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+02:01:16 [INFO] §cCommand not found
+02:01:18 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53432]: Connected via websocket
+02:01:18 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53432]: Origin header is null
+02:01:18 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53432]: Logged in as 'CheddederALT'
+02:01:18 [INFO] [CheddederALT] -> UpstreamBridge has connected
+02:01:18 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+02:08:44 [INFO] [CheddederALT] disconnected with: §f§cProxy lost connection to server.
+02:08:44 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:08:44 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+02:12:17 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51082]: Connected via websocket
+02:12:17 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51082]: Origin header is null
+02:12:17 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51082]: Logged in as 'CheddederALT'
+02:12:17 [INFO] [CheddederALT] -> UpstreamBridge has connected
+02:12:17 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+02:15:30 [INFO] [CheddederALT] disconnected with: §f§cProxy lost connection to server.
+02:15:30 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:15:30 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+02:21:19 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:36190]: Connected via websocket
+02:21:19 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:36190]: Origin header is null
+02:21:20 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:36190]: Logged in as 'CheddederALT'
+02:21:20 [INFO] [CheddederALT] -> UpstreamBridge has connected
+02:21:20 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+02:24:03 [INFO] [CheddederALT] disconnected with: §f§cProxy lost connection to server.
+02:24:03 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:24:03 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+02:24:25 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58250]: Connected via websocket
+02:24:25 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58250]: Origin header is null
+02:24:25 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58250]: Logged in as 'CheddederALT'
+02:24:25 [INFO] [CheddederALT] -> UpstreamBridge has connected
+02:24:25 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+02:28:13 [INFO] [CheddederALT] disconnected with: §f§cProxy lost connection to server.
+02:28:13 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:28:13 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+02:28:18 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:36578]: Connected via websocket
+02:28:18 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:36578]: Origin header is null
+02:28:18 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:36578]: Logged in as 'CheddederALT'
+02:28:18 [INFO] [CheddederALT] -> UpstreamBridge has connected
+02:28:18 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+02:33:28 [INFO] [CheddederALT] disconnected with: §f§cProxy lost connection to server.
+02:33:28 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:33:28 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+02:33:41 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33556]: Connected via websocket
+02:33:41 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33556]: Origin header is null
+02:33:41 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33556]: Logged in as 'CheddederALT'
+02:33:41 [INFO] [CheddederALT] -> UpstreamBridge has connected
+02:33:41 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+02:34:02 [INFO] [CheddederALT] disconnected with: §fServer closed
+02:34:02 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+02:34:02 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:34:46 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53450]: Connected via websocket
+02:34:46 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53450]: Origin header is null
+02:34:46 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53450]: Logged in as 'CheddederALT'
+02:34:46 [INFO] [CheddederALT] -> UpstreamBridge has connected
+02:34:46 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+02:36:09 [INFO] [CheddederALT] disconnected with: §f§cProxy lost connection to server.
+02:36:09 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:36:09 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+02:37:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42492]: Connected via websocket
+02:37:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42492]: Origin header is null
+02:37:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42492]: Logged in as 'CheddederALT'
+02:37:44 [INFO] [CheddederALT] -> UpstreamBridge has connected
+02:37:44 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+02:39:23 [INFO] [CheddederALT] disconnected with: §f§cProxy lost connection to server.
+02:39:23 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:39:23 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+02:41:05 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57894]: Connected via websocket
+02:41:05 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57894]: Origin header is null
+02:41:05 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57894]: Logged in as 'CheddederALT'
+02:41:05 [INFO] [CheddederALT] -> UpstreamBridge has connected
+02:41:05 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+02:42:10 [INFO] [CheddederALT] disconnected with: §f§cProxy lost connection to server.
+02:42:10 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:42:10 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+02:42:47 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46746]: Connected via websocket
+02:42:47 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46746]: Origin header is null
+02:42:47 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46746]: Logged in as 'CheddederALT'
+02:42:47 [INFO] [CheddederALT] -> UpstreamBridge has connected
+02:42:47 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+02:46:50 [INFO] [CheddederALT] disconnected with: §f§cProxy lost connection to server.
+02:46:50 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:46:50 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+02:47:40 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:50170]: Connected via websocket
+02:47:40 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:50170]: Origin header is null
+02:47:40 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:50170]: Logged in as 'CheddederALT'
+02:47:40 [INFO] [CheddederALT] -> UpstreamBridge has connected
+02:47:40 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+02:48:33 [INFO] [CheddederALT] disconnected with: §f§cProxy lost connection to server.
+02:48:33 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:48:33 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+02:49:10 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45000]: Connected via websocket
+02:49:10 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45000]: Origin header is null
+02:49:10 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45000]: Logged in as 'CheddederALT'
+02:49:10 [INFO] [CheddederALT] -> UpstreamBridge has connected
+02:49:10 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+02:50:41 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+02:50:41 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:50:43 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38328]: Connected via websocket
+02:50:43 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38328]: Origin header is null
+02:50:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38328]: Logged in as 'CheddederALT'
+02:50:44 [INFO] [CheddederALT] -> UpstreamBridge has connected
+02:50:44 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+02:52:14 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+02:52:14 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:53:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:43240]: Connected via websocket
+02:53:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:43240]: Origin header is null
+02:53:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:43240]: Logged in as 'CheddederALT'
+02:53:28 [INFO] [CheddederALT] -> UpstreamBridge has connected
+02:53:28 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+02:55:39 [INFO] [CheddederALT] disconnected with: §f§cProxy lost connection to server.
+02:55:39 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+02:55:39 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+02:55:55 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:41834]: Connected via websocket
+02:55:55 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:41834]: Origin header is null
+02:55:56 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:41834]: Logged in as 'CheddederALT'
+02:55:56 [INFO] [CheddederALT] -> UpstreamBridge has connected
+02:55:56 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+03:00:23 [INFO] [CheddederALT] disconnected with: §f§cProxy lost connection to server.
+03:00:23 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+03:00:23 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+03:01:17 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46644]: Connected via websocket
+03:01:17 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46644]: Origin header is null
+03:01:17 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46644]: Logged in as 'CheddederALT'
+03:01:17 [INFO] [CheddederALT] -> UpstreamBridge has connected
+03:01:17 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+03:03:00 [INFO] [CheddederALT] disconnected with: §f§cProxy lost connection to server.
+03:03:00 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+03:03:00 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+03:03:25 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46130]: Connected via websocket
+03:03:25 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46130]: Origin header is null
+03:03:25 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46130]: Logged in as 'Nalla'
+03:03:25 [INFO] [Nalla] -> UpstreamBridge has connected
+03:03:25 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+03:03:26 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46134]: Connected via websocket
+03:03:26 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46134]: Origin header is null
+03:03:26 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46134]: Logged in as 'CheddederALT'
+03:03:26 [INFO] [CheddederALT] -> UpstreamBridge has connected
+03:03:26 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+03:03:26 [INFO] [CheddederALT] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+03:03:26 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+03:03:26 [INFO] [CheddederALT] <-> ServerConnector [lobby] has disconnected
+03:03:32 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:32902]: Connected via websocket
+03:03:32 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:32902]: Origin header is null
+03:03:32 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:32902]: Logged in as 'CheddederALT'
+03:03:32 [INFO] [CheddederALT] -> UpstreamBridge has connected
+03:03:32 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+03:03:40 [INFO] [Nalla] -> UpstreamBridge has disconnected
+03:03:40 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+03:03:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53966]: Connected via websocket
+03:03:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53966]: Origin header is null
+03:03:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53966]: Logged in as 'Nalla'
+03:03:44 [INFO] [Nalla] -> UpstreamBridge has connected
+03:03:44 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+03:07:11 [INFO] [CheddederALT] disconnected with: §fServer closed
+03:07:11 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+03:07:11 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+03:07:11 [INFO] [Nalla] disconnected with: §fServer closed
+03:07:11 [INFO] [Nalla] -> UpstreamBridge has disconnected
+03:07:11 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+03:07:16 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42024]: Connected via websocket
+03:07:16 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42024]: Origin header is null
+03:07:17 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42024]: Logged in as 'Nalla'
+03:07:17 [INFO] [Nalla] -> UpstreamBridge has connected
+03:07:17 [INFO] [Nalla] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+03:07:17 [INFO] [Nalla] -> UpstreamBridge has disconnected
+03:07:21 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42040]: Connected via websocket
+03:07:21 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42040]: Origin header is null
+03:07:21 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42040]: Logged in as 'Nalla'
+03:07:21 [INFO] [Nalla] -> UpstreamBridge has connected
+03:07:21 [INFO] [Nalla] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+03:07:21 [INFO] [Nalla] -> UpstreamBridge has disconnected
+03:07:39 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48516]: Connected via websocket
+03:07:39 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48516]: Origin header is null
+03:07:39 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:48516]: Logged in as 'Nalla'
+03:07:39 [INFO] [Nalla] -> UpstreamBridge has connected
+03:07:39 [INFO] [Nalla] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+03:07:39 [INFO] [Nalla] -> UpstreamBridge has disconnected
+03:07:41 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33508]: Connected via websocket
+03:07:41 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33508]: Origin header is null
+03:07:42 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33508]: Logged in as 'Nalla'
+03:07:42 [INFO] [Nalla] -> UpstreamBridge has connected
+03:07:42 [INFO] [Nalla] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+03:07:42 [INFO] [Nalla] -> UpstreamBridge has disconnected
+03:07:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33522]: Connected via websocket
+03:07:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33522]: Origin header is null
+03:07:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33522]: Logged in as 'Nalla'
+03:07:49 [INFO] [Nalla] -> UpstreamBridge has connected
+03:07:49 [INFO] [Nalla] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+03:07:49 [INFO] [Nalla] -> UpstreamBridge has disconnected
+03:07:52 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52708]: Connected via websocket
+03:07:52 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52708]: Origin header is null
+03:07:53 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52708]: Logged in as 'Nalla'
+03:07:53 [INFO] [Nalla] -> UpstreamBridge has connected
+03:07:53 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+03:07:53 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52714]: Connected via websocket
+03:07:53 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52714]: Origin header is null
+03:07:53 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52714]: Logged in as 'CheddederALT'
+03:07:53 [INFO] [CheddederALT] -> UpstreamBridge has connected
+03:07:53 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+03:07:55 [INFO] [CheddederALT] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+03:07:55 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+03:07:55 [INFO] [CheddederALT] <-> ServerConnector [lobby] has disconnected
+03:07:58 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52718]: Connected via websocket
+03:07:58 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52718]: Origin header is null
+03:07:58 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52718]: Logged in as 'CheddederALT'
+03:07:58 [INFO] [CheddederALT] -> UpstreamBridge has connected
+03:07:58 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+03:07:58 [INFO] [CheddederALT] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+03:07:58 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+03:07:58 [INFO] [CheddederALT] <-> ServerConnector [lobby] has disconnected
+03:08:02 [INFO] [Nalla] -> UpstreamBridge has disconnected
+03:08:03 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34834]: Connected via websocket
+03:08:03 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34834]: Origin header is null
+03:08:04 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34834]: Logged in as 'CheddederALT'
+03:08:04 [INFO] [CheddederALT] -> UpstreamBridge has connected
+03:08:04 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+03:08:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34844]: Connected via websocket
+03:08:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34844]: Origin header is null
+03:08:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34844]: Logged in as 'Nalla'
+03:08:07 [INFO] [Nalla] -> UpstreamBridge has connected
+03:08:07 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+03:08:07 [INFO] [Nalla] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+03:08:07 [INFO] [Nalla] -> UpstreamBridge has disconnected
+03:08:07 [INFO] [Nalla] <-> ServerConnector [lobby] has disconnected
+03:08:15 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46834]: Connected via websocket
+03:08:15 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46834]: Origin header is null
+03:08:15 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46834]: Logged in as 'Nalla'
+03:08:15 [INFO] [Nalla] -> UpstreamBridge has connected
+03:08:15 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+03:08:15 [INFO] [Nalla] disconnected with: §fYou logged in from another location
+03:08:15 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+03:12:23 [INFO] [Nalla] -> UpstreamBridge has disconnected
+03:12:23 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+03:12:27 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59054]: Connected via websocket
+03:12:27 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59054]: Origin header is null
+03:12:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:59054]: Logged in as 'Nalla'
+03:12:28 [INFO] [Nalla] -> UpstreamBridge has connected
+03:12:28 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+03:13:09 [INFO] [Nalla] -> UpstreamBridge has disconnected
+03:13:09 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+03:13:13 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:54208]: Connected via websocket
+03:13:13 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:54208]: Origin header is null
+03:13:13 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:54208]: Logged in as 'Nalla'
+03:13:13 [INFO] [Nalla] -> UpstreamBridge has connected
+03:13:13 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+03:25:21 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+03:25:21 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+03:25:53 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42230]: Connected via websocket
+03:25:53 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42230]: Origin header is null
+03:25:53 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42230]: Logged in as 'CheddederALT'
+03:25:53 [INFO] [CheddederALT] -> UpstreamBridge has connected
+03:25:53 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+03:26:05 [INFO] [Nalla] disconnected with: §fServer closed
+03:26:05 [INFO] [Nalla] -> UpstreamBridge has disconnected
+03:26:05 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+03:26:05 [INFO] [CheddederALT] disconnected with: §fServer closed
+03:26:05 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+03:26:05 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+03:26:08 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:54202]: Connected via websocket
+03:26:08 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:54202]: Origin header is null
+03:26:08 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:54202]: Logged in as 'Nalla'
+03:26:08 [INFO] [Nalla] -> UpstreamBridge has connected
+03:26:08 [INFO] [Nalla] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+03:26:08 [INFO] [Nalla] -> UpstreamBridge has disconnected
+03:26:23 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49522]: Connected via websocket
+03:26:23 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49522]: Origin header is null
+03:26:23 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49522]: Logged in as 'Nalla'
+03:26:23 [INFO] [Nalla] -> UpstreamBridge has connected
+03:26:23 [INFO] [Nalla] <-> ServerConnector [lobby] has connected
+03:26:26 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49536]: Connected via websocket
+03:26:26 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49536]: Origin header is null
+03:26:26 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49536]: Logged in as 'CheddederALT'
+03:26:26 [INFO] [CheddederALT] -> UpstreamBridge has connected
+03:26:26 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+03:26:26 [INFO] [CheddederALT] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+03:26:26 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+03:26:26 [INFO] [CheddederALT] <-> ServerConnector [lobby] has disconnected
+03:26:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49544]: Connected via websocket
+03:26:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49544]: Origin header is null
+03:26:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49544]: Logged in as 'CheddederALT'
+03:26:28 [INFO] [CheddederALT] -> UpstreamBridge has connected
+03:26:28 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+03:26:28 [INFO] [CheddederALT] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+03:26:28 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+03:26:28 [INFO] [CheddederALT] <-> ServerConnector [lobby] has disconnected
+03:26:30 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49560]: Connected via websocket
+03:26:30 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49560]: Origin header is null
+03:26:30 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49560]: Logged in as 'CheddederALT'
+03:26:30 [INFO] [CheddederALT] -> UpstreamBridge has connected
+03:26:30 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+03:26:30 [INFO] [CheddederALT] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+03:26:30 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+03:26:30 [INFO] [CheddederALT] <-> ServerConnector [lobby] has disconnected
+03:26:36 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:32810]: Connected via websocket
+03:26:36 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:32810]: Origin header is null
+03:26:36 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:32810]: Logged in as 'CheddederALT'
+03:26:36 [INFO] [CheddederALT] -> UpstreamBridge has connected
+03:26:36 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+03:28:14 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+03:28:14 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+03:33:17 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51976]: Connected via websocket
+03:33:17 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51976]: Origin header is null
+03:33:17 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51976]: Logged in as 'CheddederALT'
+03:33:17 [INFO] [CheddederALT] -> UpstreamBridge has connected
+03:33:17 [INFO] [CheddederALT] <-> ServerConnector [lobby] has connected
+03:35:20 [INFO] [Nalla] -> UpstreamBridge has disconnected
+03:35:20 [INFO] [Nalla] <-> DownstreamBridge <-> [lobby] has disconnected
+03:35:26 [INFO] [CheddederALT] disconnected with: §fServer closed
+03:35:26 [INFO] [CheddederALT] -> UpstreamBridge has disconnected
+03:35:26 [INFO] [CheddederALT] <-> DownstreamBridge <-> [lobby] has disconnected
+03:35:31 [INFO] Closing listener [id: 0xbcbeab3f, L:/127.0.0.1:25577]
+03:35:31 [INFO] Closing pending connections
+03:35:31 [INFO] Disconnecting 0 connections
+03:35:31 [INFO] Disabling plugins
+03:35:31 [INFO] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+03:35:31 [INFO] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+03:35:31 [INFO] [EaglercraftXBungee] Stopping skin cache HTTP client...
+03:35:33 [INFO] Closing IO threads

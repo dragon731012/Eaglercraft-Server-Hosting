@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "283e61a2-d7d2-3484-978d-435219042731",
+    "name": "Cheddeder",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "80b61a69-bf45-3ca6-b1ce-db5aa66764e7",
+    "name": "CheddederALT",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1e757714-8f36-3b87-8856-a63fc0354aaf",
+    "name": "Nalla",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

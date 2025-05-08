@@ -1,0 +1,15 @@
+on rightclick with pickaxe:
+    if {superbreaker.cooldown.%player%} is set:
+        send "&cYou must wait before using Super Breaker again!" to player
+        stop
+    player has permission "skript.superbreak"
+    set {superbreaker.cooldown.%player%} to true
+    set {originalEfficiency} to level of efficiency of the player's tool
+    send "Original Efficiency: %{originalEfficiency}%" to player
+    enchant the player's tool with efficiency 255
+    send "&aSuper Breaker activated! It will wear off in 10 seconds." to player
+    wait 10 seconds
+    enchant the player's tool with "efficiency %{originalEfficiency}%" parsed as enchantment type
+    send "&cSuper Breaker has worn off!" to player
+    wait 60 seconds
+    delete {superbreaker.cooldown.%player%}

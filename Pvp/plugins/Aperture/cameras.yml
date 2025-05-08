@@ -1,0 +1,11 @@
+c0:
+  id: 0
+  owner: 1e757714-8f36-3b87-8856-a63fc0354aaf
+  name: Cam_Starter_Home
+  share: []
+  location:
+    w: world
+    x: -79.0
+    y: 66.0
+    z: 261.0
+    d: NORTH

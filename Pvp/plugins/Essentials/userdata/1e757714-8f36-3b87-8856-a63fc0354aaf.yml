@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1746674006830
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1746675320893
+  login: 1746674788750
+money: '0'
+lastlocation:
+  world: b62e4602-e8e5-4923-83e2-57590eac9ef3
+  world-name: world
+  x: -76.72361748560954
+  y: 64.0
+  z: 264.15015588682263
+  yaw: -45.45000457763672
+  pitch: 26.400001525878906
+logoutlocation:
+  world: b62e4602-e8e5-4923-83e2-57590eac9ef3
+  world-name: world
+  x: 57.715191904790814
+  y: 70.0
+  z: 89.92209526942952
+  yaw: 290.70654296875
+  pitch: 11.999998092651367
+last-account-name: Nalla
+homes:
+  home:
+    world: b62e4602-e8e5-4923-83e2-57590eac9ef3
+    world-name: world
+    x: -77.5
+    y: 64.0
+    z: 262.5
+    yaw: -76.65000915527344
+    pitch: 19.350000381469727

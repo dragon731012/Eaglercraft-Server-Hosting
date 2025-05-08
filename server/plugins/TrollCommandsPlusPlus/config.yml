@@ -1,0 +1,23 @@
+# Messaging is used to push instant commands across the network
+# Even if you use Redis, this can be used as a backup source
+# Messaging is entirely optional, though disabling it WILL disable /gtroll
+messaging:
+  enabled: false
+  # The type of messaging to use
+  # Values can be 'bungee' ('default'), 'redis', or 'rabbit'
+  # If 'default' or 'bungee' is selected, please be sure to use TC++ for BungeeCord!
+  type: 'bungee'
+  # Values to fill in if using Redis messaging
+  redis:
+    address: ''
+    port: 6379
+    pass: ''
+  # Values to fill in if using Rabbit messaging
+  rabbit:
+    address: ''
+    port: 5672
+    user: 'guest'
+    pass: 'guest'
+
+# Config version, no touchy plz
+version: 2.1

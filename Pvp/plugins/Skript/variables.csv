@@ -1,0 +1,15 @@
+# === Skript's variable storage ===
+# Please do not modify this file manually!
+#
+# version: 2.2-dev36
+
+homes.cheddederalt.location, location, 8605776F726C6480FF0000000181046E616D65208005776F726C64017809C052CFAC2125D4140179094050000000000000017A0940707B5DE24BA1F505706974636808423F66680379617708C3694001
+"kill counter.<player>.kills_session", long, 0000000000000000
+"kill counter.<player>.kills_session_max", long, 0000000000000000
+"kill counter.<player>.kills_total", long, 0000000000000000
+"kill counter.cheddederalt.kills_session", long, 0000000000000000
+"kill counter.cheddederalt.kills_total", long, 0000000000000001
+"kill counter.nalla.kills_session", long, 0000000000000001
+"kill counter.nalla.kills_total", long, 0000000000000001
+originalefficiency, integer, 00000004
+

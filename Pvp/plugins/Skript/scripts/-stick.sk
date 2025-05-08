@@ -1,0 +1,6 @@
+on right click with stick:
+    if difference between {lastrightclick::%player%} and now >= 10 seconds:
+        set {lastrightclick:%player%} to now
+        send "hi" to player
+    if difference between {lastrightclick:%player%} and now < 10 seconds:
+        send "cool down" to player

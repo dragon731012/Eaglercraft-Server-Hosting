@@ -1,0 +1,42 @@
+################################################
+#     _                    _                   #
+#    / \   _ __   ___ _ __| |_ _   _ _ __ ___  #
+#   / _ \ | '_ \ / _ \ '__| __| | | | '__/ _ \ #
+#  / ___ \| |_) |  __/ |  | |_| |_| | | |  __/ #
+# /_/   \_\ .__/ \___|_|   \__|\__,_|_|  \___| #
+#         |_|                                  #
+#                    # # #                     #
+#      Aperture plugin configuration file      #
+#           Created by FireBreath15            #
+################################################
+
+# Camera Settings                                   #
+# Viewport: The camera's render distance. Use lower #
+#           values for better performance.          #
+# Max: Maxmum cameras a player is allowed to own.   #
+# Item: The camera item. This is also used as the   #
+#       camera icon in menus.                       #
+camera:
+  viewport:
+    x: 20
+    y: 10
+    z: 20
+  max: 9
+  item:
+    type: DISPENSER
+    data: 0
+    lore:
+    - '&dPlace block to'
+    - '&dcreate a camera'
+    name: '&e&lCamera'
+
+# MySQL Database support #
+mysql:
+  enable: false
+  address: 'localhost:3306'
+  db_name: 'myDatabase'
+  db_user: 'username'
+  db_pass: 'password'
+
+# Check for updates #
+checkForUpdates: true

@@ -1,0 +1,10 @@
+# Materials that a player can't break, unless provided with the override permission for the specific material:
+# Here is a list of all materials https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
+blacklisted:
+- OBSIDIAN
+- BEDROCK
+tools:
+- DIAMOND_PICKAXE
+- NETHERITE_PICKAXE
+overrideWorldEdit: false
+monitorWorldChanges: true

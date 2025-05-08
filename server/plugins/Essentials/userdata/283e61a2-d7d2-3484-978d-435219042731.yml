@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1746644088958
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1746646695222
+  login: 1746646690228
+money: '0'
+last-account-name: Cheddeder
+logoutlocation:
+  world: 9907ded2-ddd1-4224-a77a-c880be4f945e
+  world-name: world
+  x: 79.95815188847256
+  y: 83.2780674747114
+  z: 247.43066538139615
+  yaw: 223.20010375976562
+  pitch: 62.25
+lastlocation:
+  world: 9907ded2-ddd1-4224-a77a-c880be4f945e
+  world-name: world
+  x: 72.80277830158089
+  y: 69.0
+  z: 246.76797813802764
+  yaw: 141.90008544921875
+  pitch: 24.60000228881836

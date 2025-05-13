@@ -1,3 +1,2 @@
-# How to make a 1.12.2 eaglercraft server
-## Docs:
-https://dragon731012.github.io/Eaglercraft-1.12-Server-Hosting/
+# note form khang, do ```bash startup.sh```
+# do port 8081 and 25565, change visiblity to true

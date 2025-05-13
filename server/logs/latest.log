@@ -188,3 +188,7 @@
 [19:24:52] [Server thread/INFO]: /worldborder: A Mojang provided command.
 [19:24:52] [Server thread/INFO]: /xp: A Mojang provided command.
 [19:25:08] [Server thread/INFO]: Saving is already turned on
+[22:09:32] [User Authenticator #2/INFO]: UUID of player Goodperson1206 is 3baea94c-198b-38e0-b4dc-dff23d6e359c
+[22:09:33] [Server thread/INFO]: Goodperson1206[/0:0:0:0:0:0:0:1%0:49764] logged in with entity id 473 at ([world]112.5, 67.0, 253.5)
+[22:10:00] [Server thread/INFO]: Goodperson1206 lost connection: Disconnected
+[22:10:00] [Server thread/INFO]: Goodperson1206 left the game

@@ -82,3 +82,34 @@
 19:27:32 [INFO] [EaglercraftXBungee] Downloading new certificate: https://deev.is/eagler/backup.cert
 19:27:32 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
 19:27:32 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/Eaglercraft-1.12-Server-Hosting/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ac3aaed1273ced06ef766ab055337fbf29dc3347.cert
+21:37:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:47330]: Connected via websocket
+21:37:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:47330]: Origin header is null
+21:37:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:47330]: Logged in as 'itskh4ng'
+21:37:49 [INFO] [itskh4ng] -> UpstreamBridge has connected
+21:37:49 [INFO] [itskh4ng] <-> ServerConnector [lobby] has connected
+21:37:49 [INFO] [itskh4ng] disconnected with: §f§cKicked whilst connecting to lobby: §fOutdated client! Please use 1.12.2
+21:37:49 [INFO] [itskh4ng] -> UpstreamBridge has disconnected
+21:37:49 [INFO] [itskh4ng] <-> ServerConnector [lobby] has disconnected
+21:45:43 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58190]: Connected via websocket
+21:45:43 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58190]: Origin header is null
+21:45:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58190]: Logged in as 'itskh4ng'
+21:45:44 [INFO] [itskh4ng] -> UpstreamBridge has connected
+21:45:44 [INFO] [itskh4ng] <-> ServerConnector [lobby] has connected
+21:45:44 [INFO] [itskh4ng] disconnected with: §f§cKicked whilst connecting to lobby: §fOutdated client! Please use 1.12.2
+21:45:44 [INFO] [itskh4ng] -> UpstreamBridge has disconnected
+21:45:44 [INFO] [itskh4ng] <-> ServerConnector [lobby] has disconnected
+22:09:32 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49204]: Connected via websocket
+22:09:32 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49204]: Origin header is null
+22:09:32 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49204]: Logged in as 'Goodperson1206'
+22:09:32 [INFO] [Goodperson1206] -> UpstreamBridge has connected
+22:09:32 [INFO] [Goodperson1206] <-> ServerConnector [lobby] has connected
+22:10:00 [INFO] [Goodperson1206] -> UpstreamBridge has disconnected
+22:10:00 [INFO] [Goodperson1206] <-> DownstreamBridge <-> [lobby] has disconnected
+22:53:55 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39808]: Connected via websocket
+22:53:55 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39808]: Origin header is https://m.eaglercraft.com
+22:53:55 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39808]: Logged in as 'YiggVool4812'
+22:53:55 [INFO] [YiggVool4812] -> UpstreamBridge has connected
+22:53:55 [INFO] [YiggVool4812] <-> ServerConnector [lobby] has connected
+22:53:55 [INFO] [YiggVool4812] disconnected with: §f§cKicked whilst connecting to lobby: §fOutdated client! Please use 1.12.2
+22:53:55 [INFO] [YiggVool4812] -> UpstreamBridge has disconnected
+22:53:55 [INFO] [YiggVool4812] <-> ServerConnector [lobby] has disconnected

@@ -10,7 +10,7 @@
 <script>
   function launchServer(){
     localStorage.setItem("game","true");
-    window.location.href="/game.html";
+    window.location.href=window.location.origin.replace("https://","http://")+"/game.html";
   }
   window.onload=function(){
     document.getElementById("gb").style.display="block";
@@ -18,7 +18,7 @@
   };
   function launchWASM(){
     localStorage.setItem("game","true");
-    window.location.href="/wasm.html";
+    window.location.href=window.location.origin.replace("https://","http://")+"/wasm.html";
   }
 </script>
 <style>

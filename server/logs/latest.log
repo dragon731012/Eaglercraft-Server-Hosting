@@ -1,0 +1,180 @@
+[01:56:57] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[01:56:57] [Server thread/INFO]: Loading properties
+[01:56:57] [Server thread/INFO]: Default game type: SURVIVAL
+[01:56:57] [Server thread/INFO]: This server is running Paper version git-Paper-1620 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[01:56:57] [Server thread/INFO]: Debug logging is disabled
+[01:56:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:56:57] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:56:57] [Server thread/INFO]: Generating keypair
+[01:56:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:56:57] [Server thread/INFO]: Using epoll channel type
+[01:56:57] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[01:56:58] [Server thread/INFO]: [LifeSteal] Loading LifeSteal v1.0
+[01:56:58] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
+[01:56:58] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v1.1
+[01:56:58] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:56:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:56:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:56:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:56:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:56:58] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[01:56:58] [Server thread/INFO]: Preparing level "world"
+[01:56:58] [Server thread/INFO]: -------- World Settings For [world] --------
+[01:56:58] [Server thread/INFO]: Mob Spawn Range: 4
+[01:56:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[01:56:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:56:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:56:58] [Server thread/INFO]: Random Lighting Updates: false
+[01:56:58] [Server thread/INFO]: Structure Info Saving: true
+[01:56:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[01:56:58] [Server thread/INFO]: Max TNT Explosions: 100
+[01:56:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:56:58] [Server thread/INFO]: View Distance: 5
+[01:56:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:56:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:56:58] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[01:56:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:56:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:56:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:56:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:56:58] [User Authenticator #1/INFO]: UUID of player IAmHimButBetter is 3610718d-8833-32fd-b134-569ae21385dc
+[01:56:58] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[01:56:58] [Server thread/INFO]: Mob Spawn Range: 4
+[01:56:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[01:56:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:56:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:56:58] [Server thread/INFO]: Random Lighting Updates: false
+[01:56:58] [Server thread/INFO]: Structure Info Saving: true
+[01:56:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[01:56:58] [Server thread/INFO]: Max TNT Explosions: 100
+[01:56:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:56:58] [Server thread/INFO]: View Distance: 5
+[01:56:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:56:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:56:58] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[01:56:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:56:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:56:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:56:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:56:58] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[01:56:58] [Server thread/INFO]: Mob Spawn Range: 4
+[01:56:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:56:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[01:56:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:56:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:56:58] [Server thread/INFO]: Random Lighting Updates: false
+[01:56:58] [Server thread/INFO]: Structure Info Saving: true
+[01:56:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[01:56:58] [Server thread/INFO]: Max TNT Explosions: 100
+[01:56:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:56:58] [Server thread/INFO]: View Distance: 5
+[01:56:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:56:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:56:58] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[01:56:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:56:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:56:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:56:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:56:58] [Server thread/INFO]: Preparing start region for level 0 (Seed: -4087170779637642818)
+[01:56:59] [Server thread/INFO]: Preparing spawn area: 14%
+[01:56:59] [Server thread/INFO]: Preparing start region for level 1 (Seed: -4087170779637642818)
+[01:57:00] [Server thread/INFO]: Preparing start region for level 2 (Seed: -4087170779637642818)
+[01:57:00] [Server thread/INFO]: [LifeSteal] Enabling LifeSteal v1.0
+[01:57:00] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[01:57:00] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[01:57:00] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[01:57:00] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[01:57:00] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[01:57:00] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v1.1
+[01:57:00] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[01:57:00] [Server thread/INFO]: false
+[01:57:00] [Server thread/INFO]: [Multiverse-Core] Version 1.1 (API v20) Enabled - By Rigby, fernferret, lithium3141 and main--
+[01:57:01] [Server thread/INFO]: Done (2.936s)! For help, type "help" or "?"
+[01:57:01] [Server thread/INFO]: Timings Reset
+[01:57:01] [Server thread/INFO]: IAmHimButBetter[/0:0:0:0:0:0:0:1%0:38124] logged in with entity id 67 at ([world]-1160.8965122779837, 68.0, -893.5682652682112)
+[01:57:01] [Server thread/INFO]: IAmHimButBetter lost connection: Disconnected
+[01:57:01] [Server thread/INFO]: IAmHimButBetter left the game
+[01:57:03] [User Authenticator #1/INFO]: UUID of player IAmHimButBetter is 3610718d-8833-32fd-b134-569ae21385dc
+[01:57:03] [Server thread/INFO]: IAmHimButBetter[/0:0:0:0:0:0:0:1%0:58038] logged in with entity id 114 at ([world]-1160.8965122779837, 68.0, -893.5682652682112)
+[01:57:10] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to LifeSteal v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:72) ~[patched_1.12.2.jar:git-Paper-1620]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:513) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:236) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PlayerInteractManager.a(PlayerInteractManager.java:486) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1011) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:5) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils.lambda$ensureMainThread$0(PlayerConnectionUtils.java:14) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:?]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:?]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:850) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.NullPointerException
+	at com.example.myplugin.LifeSteal.onPlayerUse(LifeSteal.java:227) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor1.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:70) ~[patched_1.12.2.jar:git-Paper-1620]
+	... 17 more
+[01:57:17] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to LifeSteal v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:72) ~[patched_1.12.2.jar:git-Paper-1620]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:513) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:236) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:203) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:199) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1049) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:26) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PacketPlayInBlockPlace.a(PacketPlayInBlockPlace.java:5) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils.lambda$ensureMainThread$0(PlayerConnectionUtils.java:14) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:?]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:?]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:850) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.NullPointerException
+	at com.example.myplugin.LifeSteal.onPlayerUse(LifeSteal.java:227) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor1.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:70) ~[patched_1.12.2.jar:git-Paper-1620]
+	... 18 more
+[01:57:20] [Server thread/INFO]: IAmHimButBetter lost connection: Disconnected
+[01:57:20] [Server thread/INFO]: IAmHimButBetter left the game

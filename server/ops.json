@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "a97d646b-e8cb-4bb4-9549-a7aba64a7c52",
+    "name": "lol",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "50ecb098-f083-47c1-b01f-9c195e680a4f",
+    "name": "Stop",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e0dd9beb-8c7f-3923-8cf9-c6ee179a7974",
+    "name": "Mark0",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "3610718d-8833-32fd-b134-569ae21385dc",
+    "name": "IAmHimButBetter",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

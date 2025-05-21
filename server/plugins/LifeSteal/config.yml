@@ -1,0 +1,4 @@
+heart-item:
+  material: "NETHER_STAR"
+  display-name: "Heart"  
+max-hearts: 100

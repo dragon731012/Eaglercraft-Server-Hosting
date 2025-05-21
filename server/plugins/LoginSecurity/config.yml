@@ -1,0 +1,50 @@
+#> LoginSecurity configuration.
+#> Some information is provided in the form of comments
+#> For more info visit https://github.com/lenis0012/LoginSecurity-2/wiki/Configuration
+register:
+  required: true
+  # When enabled, users need to enter a captcha upon registration.
+  captcha: false
+  # When enabled, requires users to enter their password twice upon registration.
+  confirm-password: false
+login:
+  max-tries: 5
+  # Only allow registered players to join using exactly the same name as registered.
+  username-match-exact: true
+password:
+  min-length: 6
+password-max-length: 32
+join:
+  # When enabled, player gets a blindness effect when not logged in.
+  blindness: true
+  # Temporarily login location until player has logged in.
+  # Available options: DEFAULT, SPAWN
+  location: DEFAULT
+  # Safely hides the player's inventory until the player is logged in
+  # This required ProtocolLib to be installed
+  hide-inventory-safe: false
+username:
+  # Remove special characters like @ and # from the username.
+  # Disabling this can be a security risk!
+  filter-special-chars: true
+  min-length: 3
+  max-length: 16
+# Shortcut that can be used as alternative to login/register command. Does not replace the defaults
+command-shortcut:
+  enabled: false
+  login: /l
+  register: /reg
+updater:
+  enabled: true
+  # The type of builds you are checking. RELEASE, BETA, ALPHA
+  channel: BETA
+# Session timeout in seconds, set to -1 to disable.
+session-timeout: 60
+# Login timeout in seconds, set to -1 to disable.
+login-timeout: 120
+# Login/register message delay in seconds.
+login-message-delay: 10
+# Language for messages, check wiki for more info.
+# List: https://github.com/lenis0012/Translations
+# This setting should be set tot he file name without .json
+language: en_us
